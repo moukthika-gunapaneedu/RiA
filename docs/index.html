@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>RIA — Ricoh Intelligent Assistant</title>
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <h1>RIA</h1>
+      <p>Ricoh Intelligent Assistant — agentic, grounded, traceable tech support</p>
+    </div>
+  </header>
+
+  <main class="grid">
+    <section class="card">
+      <h2>Ask a question</h2>
+      <textarea id="q" placeholder="e.g., What is the command to shut down RPD?"></textarea>
+      <button id="ask">Run RIA</button>
+      <div id="status" class="muted"></div>
+    </section>
+
+    <section class="card">
+      <h2>Agent timeline</h2>
+      <ol id="timeline" class="timeline"></ol>
+    </section>
+
+    <section class="card">
+      <h2>Retrieved sources</h2>
+      <div id="sources" class="sources"></div>
+    </section>
+
+    <section class="card wide">
+      <h2>Final answer</h2>
+      <div id="answer" class="answer">No answer yet.</div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-content">
+      <div class="modal-header">
+        <strong id="modalTitle">Citation</strong>
+        <button id="closeModal">Close</button>
+      </div>
+      <pre id="modalText"></pre>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
