@@ -2,52 +2,147 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>RIA — Ricoh Intelligent Assistant</title>
-  <link rel="stylesheet" href="assets/style.css" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="./assets/style.css" />
 </head>
 <body>
-  <header class="top">
-    <div class="brand">
-      <h1>RIA</h1>
-      <p>Ricoh Intelligent Assistant — agentic, grounded, traceable tech support</p>
+  <header class="topbar">
+    <div class="topbar__left">
+      <div class="brand">
+        <div class="brand__mark" aria-hidden="true"></div>
+        <div class="brand__text">
+          <div class="brand__title">RIA</div>
+          <div class="brand__subtitle">Ricoh Intelligent Assistant</div>
+        </div>
+      </div>
+
+      <div class="env-pill" title="Environment">
+        <span class="dot"></span>
+        <span id="envLabel">Test Portal</span>
+      </div>
+    </div>
+
+    <div class="topbar__right">
+      <button class="btn btn--ghost" id="btnHistory" type="button">History</button>
+      <button class="btn btn--ghost" id="btnSettings" type="button">Settings</button>
+      <button class="btn btn--primary" id="btnFeedback" type="button">Feedback</button>
     </div>
   </header>
 
-  <main class="grid">
-    <section class="card">
-      <h2>Ask a question</h2>
-      <textarea id="q" placeholder="e.g., What is the command to shut down RPD?"></textarea>
-      <button id="ask">Run RIA</button>
-      <div id="status" class="muted"></div>
+  <main class="layout">
+    <!-- LEFT -->
+    <section class="col col--main">
+      <div class="card card--ask">
+        <div class="card__head">
+          <div>
+            <h1 class="h1">Ask a question</h1>
+            <p class="muted">Grounded answers with citations. Unknowns are marked clearly.</p>
+          </div>
+          <div class="hint">
+            <span class="hint__chip">Agentic</span>
+            <span class="hint__chip">Grounded</span>
+            <span class="hint__chip">Traceable</span>
+          </div>
+        </div>
+
+        <form id="askForm" class="ask">
+          <textarea
+            id="question"
+            class="ask__input"
+            rows="3"
+            placeholder="Example: What is the command to shut down RPD?"
+            maxlength="1200"
+          ></textarea>
+
+          <div class="ask__bar">
+            <div class="ask__left">
+              <span class="kbd">Ctrl</span> <span class="kbd">Enter</span>
+              <span class="muted">to run</span>
+            </div>
+
+            <div class="ask__right">
+              <label class="toggle">
+                <input type="checkbox" id="toggleCitations" checked />
+                <span class="toggle__ui"></span>
+                <span class="toggle__label">Copy with citations</span>
+              </label>
+
+              <button id="runBtn" class="btn btn--primary btn--big" type="submit">
+                Ask RIA
+              </button>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <div class="card card--answer">
+        <div class="card__head card__head--tight">
+          <h2 class="h2">Answer</h2>
+          <div class="actions">
+            <button class="btn btn--ghost" id="btnCopy" type="button">Copy</button>
+            <button class="btn btn--ghost" id="btnClear" type="button">Clear</button>
+          </div>
+        </div>
+
+        <div id="answerArea" class="answer">
+          <div class="empty">
+            <div class="empty__icon">⌁</div>
+            <div class="empty__title">Ready when you are.</div>
+            <div class="empty__text">Ask something, and RIA will show evidence alongside the answer.</div>
+          </div>
+        </div>
+      </div>
     </section>
 
-    <section class="card">
-      <h2>Agent timeline</h2>
-      <ol id="timeline" class="timeline"></ol>
-    </section>
+    <!-- RIGHT -->
+    <aside class="col col--side">
+      <div class="card card--trust">
+        <div class="card__head card__head--tight">
+          <h2 class="h2">Trust Panel</h2>
+          <span class="muted">Verify in seconds</span>
+        </div>
 
-    <section class="card">
-      <h2>Retrieved sources</h2>
-      <div id="sources" class="sources"></div>
-    </section>
+        <div class="quality">
+          <div class="pill pill--ok">
+            <span class="pill__label">Citation coverage</span>
+            <span class="pill__value" id="coverageVal">—</span>
+          </div>
+          <div class="pill pill--warn">
+            <span class="pill__label">Needs confirmation</span>
+            <span class="pill__value" id="unsupportedVal">—</span>
+          </div>
+        </div>
 
-    <section class="card wide">
-      <h2>Final answer</h2>
-      <div id="answer" class="answer">No answer yet.</div>
-    </section>
+        <div class="block">
+          <div class="block__title">Agent timeline</div>
+          <ol id="timeline" class="timeline"></ol>
+        </div>
+
+        <div class="block">
+          <div class="block__title">Evidence</div>
+          <div id="evidence" class="evidence">
+            <div class="evidence__empty">Evidence will appear here once you run a question.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card card--mini">
+        <div class="mini">
+          <div class="mini__title">Tip</div>
+          <div class="mini__text">Click any citation chip in the answer to jump to the exact evidence snippet.</div>
+        </div>
+      </div>
+    </aside>
   </main>
 
-  <div id="modal" class="modal hidden">
-    <div class="modal-content">
-      <div class="modal-header">
-        <strong id="modalTitle">Citation</strong>
-        <button id="closeModal">Close</button>
-      </div>
-      <pre id="modalText"></pre>
-    </div>
-  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
 
-  <script src="assets/app.js"></script>
+  <script src="./assets/app.js"></script>
 </body>
 </html>

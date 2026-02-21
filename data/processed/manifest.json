@@ -1,0 +1,5866 @@
+[
+  {
+    "doc_name": "AssociatingInserterControllersWithJobs.pdf",
+    "rel_path": "RPD-en-US/AssociatingInserterControllersWithJobs.pdf",
+    "json_path": "data/processed/RPD-en-US_AssociatingInserterControllersWithJobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2108
+  },
+  {
+    "doc_name": "BarCodeFormatObject.pdf",
+    "rel_path": "RPD-en-US/BarCodeFormatObject.pdf",
+    "json_path": "data/processed/RPD-en-US_BarCodeFormatObject.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4591
+  },
+  {
+    "doc_name": "Common.Properties.pdf",
+    "rel_path": "RPD-en-US/Common.Properties.pdf",
+    "json_path": "data/processed/RPD-en-US_Common.Properties.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3042
+  },
+  {
+    "doc_name": "ConfiguringDirectories.pdf",
+    "rel_path": "RPD-en-US/ConfiguringDirectories.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringDirectories.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2324
+  },
+  {
+    "doc_name": "ConfiguringHeaderForInsertion.pdf",
+    "rel_path": "RPD-en-US/ConfiguringHeaderForInsertion.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringHeaderForInsertion.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2299
+  },
+  {
+    "doc_name": "ConfiguringInserterResultsFiles.pdf",
+    "rel_path": "RPD-en-US/ConfiguringInserterResultsFiles.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringInserterResultsFiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2570
+  },
+  {
+    "doc_name": "ConfiguringInserters.pdf",
+    "rel_path": "RPD-en-US/ConfiguringInserters.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringInserters.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 899
+  },
+  {
+    "doc_name": "ConfiguringJobTypes.pdf",
+    "rel_path": "RPD-en-US/ConfiguringJobTypes.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringJobTypes.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 7467
+  },
+  {
+    "doc_name": "ConfiguringJobTypesToProcessDocuments.pdf",
+    "rel_path": "RPD-en-US/ConfiguringJobTypesToProcessDocuments.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringJobTypesToProcessDocuments.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3022
+  },
+  {
+    "doc_name": "ConfiguringMappedDrives.pdf",
+    "rel_path": "RPD-en-US/ConfiguringMappedDrives.pdf",
+    "json_path": "data/processed/RPD-en-US_ConfiguringMappedDrives.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1460
+  },
+  {
+    "doc_name": "CreatingBarCodeFormats.pdf",
+    "rel_path": "RPD-en-US/CreatingBarCodeFormats.pdf",
+    "json_path": "data/processed/RPD-en-US_CreatingBarCodeFormats.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4837
+  },
+  {
+    "doc_name": "CreatingControlRules.pdf",
+    "rel_path": "RPD-en-US/CreatingControlRules.pdf",
+    "json_path": "data/processed/RPD-en-US_CreatingControlRules.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4891
+  },
+  {
+    "doc_name": "CreatingInserterBarCodes.pdf",
+    "rel_path": "RPD-en-US/CreatingInserterBarCodes.pdf",
+    "json_path": "data/processed/RPD-en-US_CreatingInserterBarCodes.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3524
+  },
+  {
+    "doc_name": "CreatingInserterControllers.pdf",
+    "rel_path": "RPD-en-US/CreatingInserterControllers.pdf",
+    "json_path": "data/processed/RPD-en-US_CreatingInserterControllers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2362
+  },
+  {
+    "doc_name": "CreatingResultsRules.pdf",
+    "rel_path": "RPD-en-US/CreatingResultsRules.pdf",
+    "json_path": "data/processed/RPD-en-US_CreatingResultsRules.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4704
+  },
+  {
+    "doc_name": "CustomizingDocumentProperties.pdf",
+    "rel_path": "RPD-en-US/CustomizingDocumentProperties.pdf",
+    "json_path": "data/processed/RPD-en-US_CustomizingDocumentProperties.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3468
+  },
+  {
+    "doc_name": "DefiningInserterControllers.pdf",
+    "rel_path": "RPD-en-US/DefiningInserterControllers.pdf",
+    "json_path": "data/processed/RPD-en-US_DefiningInserterControllers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3053
+  },
+  {
+    "doc_name": "DocumentObject.pdf",
+    "rel_path": "RPD-en-US/DocumentObject.pdf",
+    "json_path": "data/processed/RPD-en-US_DocumentObject.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 516
+  },
+  {
+    "doc_name": "EnhancingAFPFilesForInsertion.pdf",
+    "rel_path": "RPD-en-US/EnhancingAFPFilesForInsertion.pdf",
+    "json_path": "data/processed/RPD-en-US_EnhancingAFPFilesForInsertion.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1519
+  },
+  {
+    "doc_name": "IdentifyingMailPiecesForInsertion.pdf",
+    "rel_path": "RPD-en-US/IdentifyingMailPiecesForInsertion.pdf",
+    "json_path": "data/processed/RPD-en-US_IdentifyingMailPiecesForInsertion.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1013
+  },
+  {
+    "doc_name": "InserterCompletionMethods.pdf",
+    "rel_path": "RPD-en-US/InserterCompletionMethods.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterCompletionMethods.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1451
+  },
+  {
+    "doc_name": "InserterControlFiles.pdf",
+    "rel_path": "RPD-en-US/InserterControlFiles.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterControlFiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4513
+  },
+  {
+    "doc_name": "InserterControllerObject.pdf",
+    "rel_path": "RPD-en-US/InserterControllerObject.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterControllerObject.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1481
+  },
+  {
+    "doc_name": "InserterOverview.pdf",
+    "rel_path": "RPD-en-US/InserterOverview.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterOverview.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 10190
+  },
+  {
+    "doc_name": "InserterReconciliationMethods.pdf",
+    "rel_path": "RPD-en-US/InserterReconciliationMethods.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterReconciliationMethods.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3266
+  },
+  {
+    "doc_name": "InserterReprintMethods.pdf",
+    "rel_path": "RPD-en-US/InserterReprintMethods.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterReprintMethods.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2078
+  },
+  {
+    "doc_name": "InserterResultsFiles.pdf",
+    "rel_path": "RPD-en-US/InserterResultsFiles.pdf",
+    "json_path": "data/processed/RPD-en-US_InserterResultsFiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4497
+  },
+  {
+    "doc_name": "SettingUpInserters.pdf",
+    "rel_path": "RPD-en-US/SettingUpInserters.pdf",
+    "json_path": "data/processed/RPD-en-US_SettingUpInserters.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5000
+  },
+  {
+    "doc_name": "UsingSuppliedInserterControllers.pdf",
+    "rel_path": "RPD-en-US/UsingSuppliedInserterControllers.pdf",
+    "json_path": "data/processed/RPD-en-US_UsingSuppliedInserterControllers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3116
+  },
+  {
+    "doc_name": "UsingSuppliedTransferScripts.pdf",
+    "rel_path": "RPD-en-US/UsingSuppliedTransferScripts.pdf",
+    "json_path": "data/processed/RPD-en-US_UsingSuppliedTransferScripts.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 9836
+  },
+  {
+    "doc_name": "addingeditstep.pdf",
+    "rel_path": "RPD-en-US/addingeditstep.pdf",
+    "json_path": "data/processed/RPD-en-US_addingeditstep.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4426
+  },
+  {
+    "doc_name": "addingeditstep2.pdf",
+    "rel_path": "RPD-en-US/addingeditstep2.pdf",
+    "json_path": "data/processed/RPD-en-US_addingeditstep2.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4483
+  },
+  {
+    "doc_name": "addingfillwsstep.pdf",
+    "rel_path": "RPD-en-US/addingfillwsstep.pdf",
+    "json_path": "data/processed/RPD-en-US_addingfillwsstep.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5062
+  },
+  {
+    "doc_name": "addingfillwsstep2.pdf",
+    "rel_path": "RPD-en-US/addingfillwsstep2.pdf",
+    "json_path": "data/processed/RPD-en-US_addingfillwsstep2.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5169
+  },
+  {
+    "doc_name": "addingindexstep.pdf",
+    "rel_path": "RPD-en-US/addingindexstep.pdf",
+    "json_path": "data/processed/RPD-en-US_addingindexstep.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4546
+  },
+  {
+    "doc_name": "addingindexstep2.pdf",
+    "rel_path": "RPD-en-US/addingindexstep2.pdf",
+    "json_path": "data/processed/RPD-en-US_addingindexstep2.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4605
+  },
+  {
+    "doc_name": "addingwsafpfiles.pdf",
+    "rel_path": "RPD-en-US/addingwsafpfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_addingwsafpfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2057
+  },
+  {
+    "doc_name": "aiw0001.pdf",
+    "rel_path": "RPD-en-US/aiw0001.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw0001.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 987
+  },
+  {
+    "doc_name": "aiw00_ccopyhotfolder.pdf",
+    "rel_path": "RPD-en-US/aiw00_ccopyhotfolder.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00_ccopyhotfolder.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2349
+  },
+  {
+    "doc_name": "aiw00_cnonAFP2Passthru.pdf",
+    "rel_path": "RPD-en-US/aiw00_cnonAFP2Passthru.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00_cnonAFP2Passthru.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1814
+  },
+  {
+    "doc_name": "aiw00_cnonAFPPCLOut.pdf",
+    "rel_path": "RPD-en-US/aiw00_cnonAFPPCLOut.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00_cnonAFPPCLOut.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1445
+  },
+  {
+    "doc_name": "aiw00_scale.fields.pdf",
+    "rel_path": "RPD-en-US/aiw00_scale.fields.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00_scale.fields.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 983
+  },
+  {
+    "doc_name": "aiw00a12.pdf",
+    "rel_path": "RPD-en-US/aiw00a12.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a12.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1950
+  },
+  {
+    "doc_name": "aiw00a13.pdf",
+    "rel_path": "RPD-en-US/aiw00a13.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a13.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4600
+  },
+  {
+    "doc_name": "aiw00a15.pdf",
+    "rel_path": "RPD-en-US/aiw00a15.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a15.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1765
+  },
+  {
+    "doc_name": "aiw00a17.pdf",
+    "rel_path": "RPD-en-US/aiw00a17.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a17.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1025
+  },
+  {
+    "doc_name": "aiw00a18.pdf",
+    "rel_path": "RPD-en-US/aiw00a18.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a18.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3668
+  },
+  {
+    "doc_name": "aiw00a19.pdf",
+    "rel_path": "RPD-en-US/aiw00a19.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a19.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1374
+  },
+  {
+    "doc_name": "aiw00a2.pdf",
+    "rel_path": "RPD-en-US/aiw00a2.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a2.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 865
+  },
+  {
+    "doc_name": "aiw00a25.pdf",
+    "rel_path": "RPD-en-US/aiw00a25.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a25.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2231
+  },
+  {
+    "doc_name": "aiw00a26.pdf",
+    "rel_path": "RPD-en-US/aiw00a26.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a26.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2835
+  },
+  {
+    "doc_name": "aiw00a29.pdf",
+    "rel_path": "RPD-en-US/aiw00a29.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a29.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1114
+  },
+  {
+    "doc_name": "aiw00a30.pdf",
+    "rel_path": "RPD-en-US/aiw00a30.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a30.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 770
+  },
+  {
+    "doc_name": "aiw00a36.pdf",
+    "rel_path": "RPD-en-US/aiw00a36.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a36.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2086
+  },
+  {
+    "doc_name": "aiw00a37.pdf",
+    "rel_path": "RPD-en-US/aiw00a37.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a37.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1140
+  },
+  {
+    "doc_name": "aiw00a38.pdf",
+    "rel_path": "RPD-en-US/aiw00a38.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a38.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1272
+  },
+  {
+    "doc_name": "aiw00a43.pdf",
+    "rel_path": "RPD-en-US/aiw00a43.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00a43.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1509
+  },
+  {
+    "doc_name": "aiw00ao.pdf",
+    "rel_path": "RPD-en-US/aiw00ao.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ao.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4329
+  },
+  {
+    "doc_name": "aiw00aservname.pdf",
+    "rel_path": "RPD-en-US/aiw00aservname.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00aservname.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1110
+  },
+  {
+    "doc_name": "aiw00bannerbcode.pdf",
+    "rel_path": "RPD-en-US/aiw00bannerbcode.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00bannerbcode.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2391
+  },
+  {
+    "doc_name": "aiw00bannerbppv.pdf",
+    "rel_path": "RPD-en-US/aiw00bannerbppv.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00bannerbppv.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3997
+  },
+  {
+    "doc_name": "aiw00bannerjfont.pdf",
+    "rel_path": "RPD-en-US/aiw00bannerjfont.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00bannerjfont.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2489
+  },
+  {
+    "doc_name": "aiw00bannerpcpm.pdf",
+    "rel_path": "RPD-en-US/aiw00bannerpcpm.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00bannerpcpm.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2461
+  },
+  {
+    "doc_name": "aiw00c1.pdf",
+    "rel_path": "RPD-en-US/aiw00c1.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c1.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 10554
+  },
+  {
+    "doc_name": "aiw00c11.pdf",
+    "rel_path": "RPD-en-US/aiw00c11.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c11.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1066
+  },
+  {
+    "doc_name": "aiw00c12.pdf",
+    "rel_path": "RPD-en-US/aiw00c12.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c12.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3587
+  },
+  {
+    "doc_name": "aiw00c15.pdf",
+    "rel_path": "RPD-en-US/aiw00c15.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c15.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2142
+  },
+  {
+    "doc_name": "aiw00c16.pdf",
+    "rel_path": "RPD-en-US/aiw00c16.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c16.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3115
+  },
+  {
+    "doc_name": "aiw00c19.pdf",
+    "rel_path": "RPD-en-US/aiw00c19.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c19.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3522
+  },
+  {
+    "doc_name": "aiw00c20f.pdf",
+    "rel_path": "RPD-en-US/aiw00c20f.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c20f.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2237
+  },
+  {
+    "doc_name": "aiw00c21.pdf",
+    "rel_path": "RPD-en-US/aiw00c21.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c21.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2959
+  },
+  {
+    "doc_name": "aiw00c22.pdf",
+    "rel_path": "RPD-en-US/aiw00c22.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c22.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2992
+  },
+  {
+    "doc_name": "aiw00c23.pdf",
+    "rel_path": "RPD-en-US/aiw00c23.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c23.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2776
+  },
+  {
+    "doc_name": "aiw00c29.pdf",
+    "rel_path": "RPD-en-US/aiw00c29.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c29.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4807
+  },
+  {
+    "doc_name": "aiw00c3.pdf",
+    "rel_path": "RPD-en-US/aiw00c3.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c3.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1961
+  },
+  {
+    "doc_name": "aiw00c30.pdf",
+    "rel_path": "RPD-en-US/aiw00c30.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c30.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2353
+  },
+  {
+    "doc_name": "aiw00c31.pdf",
+    "rel_path": "RPD-en-US/aiw00c31.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c31.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3759
+  },
+  {
+    "doc_name": "aiw00c34.pdf",
+    "rel_path": "RPD-en-US/aiw00c34.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c34.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 11443
+  },
+  {
+    "doc_name": "aiw00c35.pdf",
+    "rel_path": "RPD-en-US/aiw00c35.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c35.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8800
+  },
+  {
+    "doc_name": "aiw00c4.pdf",
+    "rel_path": "RPD-en-US/aiw00c4.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c4.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 7049
+  },
+  {
+    "doc_name": "aiw00c4afp.pdf",
+    "rel_path": "RPD-en-US/aiw00c4afp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c4afp.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4170
+  },
+  {
+    "doc_name": "aiw00c4pass.pdf",
+    "rel_path": "RPD-en-US/aiw00c4pass.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c4pass.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5737
+  },
+  {
+    "doc_name": "aiw00c6.pdf",
+    "rel_path": "RPD-en-US/aiw00c6.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c6.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2988
+  },
+  {
+    "doc_name": "aiw00c7.pdf",
+    "rel_path": "RPD-en-US/aiw00c7.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c7.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 594
+  },
+  {
+    "doc_name": "aiw00c8.pdf",
+    "rel_path": "RPD-en-US/aiw00c8.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c8.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2113
+  },
+  {
+    "doc_name": "aiw00c82.pdf",
+    "rel_path": "RPD-en-US/aiw00c82.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c82.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2169
+  },
+  {
+    "doc_name": "aiw00c9.pdf",
+    "rel_path": "RPD-en-US/aiw00c9.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c9.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5489
+  },
+  {
+    "doc_name": "aiw00c_Define_PCLOut.pdf",
+    "rel_path": "RPD-en-US/aiw00c_Define_PCLOut.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c_Define_PCLOut.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4939
+  },
+  {
+    "doc_name": "aiw00c_Define_RicohPDF.pdf",
+    "rel_path": "RPD-en-US/aiw00c_Define_RicohPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c_Define_RicohPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4042
+  },
+  {
+    "doc_name": "aiw00c_Define_TASKalfa.pdf",
+    "rel_path": "RPD-en-US/aiw00c_Define_TASKalfa.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c_Define_TASKalfa.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3453
+  },
+  {
+    "doc_name": "aiw00c_PCLOutLimitations.pdf",
+    "rel_path": "RPD-en-US/aiw00c_PCLOutLimitations.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00c_PCLOutLimitations.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3563
+  },
+  {
+    "doc_name": "aiw00cbatchfiles.pdf",
+    "rel_path": "RPD-en-US/aiw00cbatchfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cbatchfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 979
+  },
+  {
+    "doc_name": "aiw00cbatchfolder.pdf",
+    "rel_path": "RPD-en-US/aiw00cbatchfolder.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cbatchfolder.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7496
+  },
+  {
+    "doc_name": "aiw00cclocs.pdf",
+    "rel_path": "RPD-en-US/aiw00cclocs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cclocs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 712
+  },
+  {
+    "doc_name": "aiw00ccms.pdf",
+    "rel_path": "RPD-en-US/aiw00ccms.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ccms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1023
+  },
+  {
+    "doc_name": "aiw00ccrautoms.pdf",
+    "rel_path": "RPD-en-US/aiw00ccrautoms.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ccrautoms.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6475
+  },
+  {
+    "doc_name": "aiw00ccrlocs.pdf",
+    "rel_path": "RPD-en-US/aiw00ccrlocs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ccrlocs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1197
+  },
+  {
+    "doc_name": "aiw00ccrms.pdf",
+    "rel_path": "RPD-en-US/aiw00ccrms.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ccrms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1134
+  },
+  {
+    "doc_name": "aiw00cformprop.pdf",
+    "rel_path": "RPD-en-US/aiw00cformprop.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cformprop.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1320
+  },
+  {
+    "doc_name": "aiw00cjdf.pdf",
+    "rel_path": "RPD-en-US/aiw00cjdf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cjdf.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 7760
+  },
+  {
+    "doc_name": "aiw00cloc.pdf",
+    "rel_path": "RPD-en-US/aiw00cloc.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cloc.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 733
+  },
+  {
+    "doc_name": "aiw00clpd.pdf",
+    "rel_path": "RPD-en-US/aiw00clpd.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00clpd.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 11093
+  },
+  {
+    "doc_name": "aiw00cmed.pdf",
+    "rel_path": "RPD-en-US/aiw00cmed.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00cmed.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2510
+  },
+  {
+    "doc_name": "aiw00co.pdf",
+    "rel_path": "RPD-en-US/aiw00co.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00co.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 10681
+  },
+  {
+    "doc_name": "aiw00configautoprinter.pdf",
+    "rel_path": "RPD-en-US/aiw00configautoprinter.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00configautoprinter.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2135
+  },
+  {
+    "doc_name": "aiw00configsnmp.pdf",
+    "rel_path": "RPD-en-US/aiw00configsnmp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00configsnmp.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2226
+  },
+  {
+    "doc_name": "aiw00csms.pdf",
+    "rel_path": "RPD-en-US/aiw00csms.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00csms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 735
+  },
+  {
+    "doc_name": "aiw00csysmap.pdf",
+    "rel_path": "RPD-en-US/aiw00csysmap.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00csysmap.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1337
+  },
+  {
+    "doc_name": "aiw00ctolerancems.pdf",
+    "rel_path": "RPD-en-US/aiw00ctolerancems.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ctolerancems.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1688
+  },
+  {
+    "doc_name": "aiw00ctrans.pdf",
+    "rel_path": "RPD-en-US/aiw00ctrans.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ctrans.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1507
+  },
+  {
+    "doc_name": "aiw00exprint.pdf",
+    "rel_path": "RPD-en-US/aiw00exprint.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00exprint.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4517
+  },
+  {
+    "doc_name": "aiw00import.pdf",
+    "rel_path": "RPD-en-US/aiw00import.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00import.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6234
+  },
+  {
+    "doc_name": "aiw00importservice.pdf",
+    "rel_path": "RPD-en-US/aiw00importservice.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00importservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 567
+  },
+  {
+    "doc_name": "aiw00j19.pdf",
+    "rel_path": "RPD-en-US/aiw00j19.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00j19.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2378
+  },
+  {
+    "doc_name": "aiw00modjacf.pdf",
+    "rel_path": "RPD-en-US/aiw00modjacf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00modjacf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3120
+  },
+  {
+    "doc_name": "aiw00o1.pdf",
+    "rel_path": "RPD-en-US/aiw00o1.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o1.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7048
+  },
+  {
+    "doc_name": "aiw00o14.pdf",
+    "rel_path": "RPD-en-US/aiw00o14.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o14.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5980
+  },
+  {
+    "doc_name": "aiw00o15.pdf",
+    "rel_path": "RPD-en-US/aiw00o15.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o15.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2133
+  },
+  {
+    "doc_name": "aiw00o18.pdf",
+    "rel_path": "RPD-en-US/aiw00o18.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o18.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2028
+  },
+  {
+    "doc_name": "aiw00o2.pdf",
+    "rel_path": "RPD-en-US/aiw00o2.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o2.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4090
+  },
+  {
+    "doc_name": "aiw00o3.pdf",
+    "rel_path": "RPD-en-US/aiw00o3.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o3.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3133
+  },
+  {
+    "doc_name": "aiw00o33.pdf",
+    "rel_path": "RPD-en-US/aiw00o33.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o33.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2153
+  },
+  {
+    "doc_name": "aiw00o34.pdf",
+    "rel_path": "RPD-en-US/aiw00o34.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o34.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3326
+  },
+  {
+    "doc_name": "aiw00o35.pdf",
+    "rel_path": "RPD-en-US/aiw00o35.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o35.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5281
+  },
+  {
+    "doc_name": "aiw00o36.pdf",
+    "rel_path": "RPD-en-US/aiw00o36.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o36.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2344
+  },
+  {
+    "doc_name": "aiw00o38.pdf",
+    "rel_path": "RPD-en-US/aiw00o38.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o38.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2229
+  },
+  {
+    "doc_name": "aiw00o4.pdf",
+    "rel_path": "RPD-en-US/aiw00o4.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o4.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2837
+  },
+  {
+    "doc_name": "aiw00o40.pdf",
+    "rel_path": "RPD-en-US/aiw00o40.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o40.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 495
+  },
+  {
+    "doc_name": "aiw00o5.pdf",
+    "rel_path": "RPD-en-US/aiw00o5.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00o5.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2830
+  },
+  {
+    "doc_name": "aiw00oSystemUserGrp.pdf",
+    "rel_path": "RPD-en-US/aiw00oSystemUserGrp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00oSystemUserGrp.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2294
+  },
+  {
+    "doc_name": "aiw00ojobsjdf.pdf",
+    "rel_path": "RPD-en-US/aiw00ojobsjdf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00ojobsjdf.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5625
+  },
+  {
+    "doc_name": "aiw00olocation.pdf",
+    "rel_path": "RPD-en-US/aiw00olocation.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00olocation.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1216
+  },
+  {
+    "doc_name": "aiw00omedia.pdf",
+    "rel_path": "RPD-en-US/aiw00omedia.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00omedia.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1970
+  },
+  {
+    "doc_name": "aiw00p1.pdf",
+    "rel_path": "RPD-en-US/aiw00p1.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p1.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1140
+  },
+  {
+    "doc_name": "aiw00p16.pdf",
+    "rel_path": "RPD-en-US/aiw00p16.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p16.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1612
+  },
+  {
+    "doc_name": "aiw00p18.pdf",
+    "rel_path": "RPD-en-US/aiw00p18.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p18.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1382
+  },
+  {
+    "doc_name": "aiw00p19.pdf",
+    "rel_path": "RPD-en-US/aiw00p19.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p19.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2661
+  },
+  {
+    "doc_name": "aiw00p4.pdf",
+    "rel_path": "RPD-en-US/aiw00p4.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p4.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2347
+  },
+  {
+    "doc_name": "aiw00p7.pdf",
+    "rel_path": "RPD-en-US/aiw00p7.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00p7.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2493
+  },
+  {
+    "doc_name": "aiw00pshutdown.pdf",
+    "rel_path": "RPD-en-US/aiw00pshutdown.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00pshutdown.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1646
+  },
+  {
+    "doc_name": "aiw00pupdatemedia.pdf",
+    "rel_path": "RPD-en-US/aiw00pupdatemedia.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw00pupdatemedia.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2258
+  },
+  {
+    "doc_name": "aiw02cmt.pdf",
+    "rel_path": "RPD-en-US/aiw02cmt.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02cmt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2564
+  },
+  {
+    "doc_name": "aiw02cmtex.pdf",
+    "rel_path": "RPD-en-US/aiw02cmtex.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02cmtex.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2110
+  },
+  {
+    "doc_name": "aiw02cmtjob.pdf",
+    "rel_path": "RPD-en-US/aiw02cmtjob.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02cmtjob.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 804
+  },
+  {
+    "doc_name": "aiw02cmtsrcgrp.pdf",
+    "rel_path": "RPD-en-US/aiw02cmtsrcgrp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02cmtsrcgrp.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2265
+  },
+  {
+    "doc_name": "aiw02cmttrggrp.pdf",
+    "rel_path": "RPD-en-US/aiw02cmttrggrp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02cmttrggrp.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1136
+  },
+  {
+    "doc_name": "aiw02partcmt.pdf",
+    "rel_path": "RPD-en-US/aiw02partcmt.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw02partcmt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1187
+  },
+  {
+    "doc_name": "aiw0appservrq.pdf",
+    "rel_path": "RPD-en-US/aiw0appservrq.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw0appservrq.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1160
+  },
+  {
+    "doc_name": "aiw0osysobj.pdf",
+    "rel_path": "RPD-en-US/aiw0osysobj.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw0osysobj.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7435
+  },
+  {
+    "doc_name": "aiwBatchAllNow.pdf",
+    "rel_path": "RPD-en-US/aiwBatchAllNow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwBatchAllNow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2255
+  },
+  {
+    "doc_name": "aiwConfigRecOrd.pdf",
+    "rel_path": "RPD-en-US/aiwConfigRecOrd.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwConfigRecOrd.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1784
+  },
+  {
+    "doc_name": "aiw_C_StepChain.pdf",
+    "rel_path": "RPD-en-US/aiw_C_StepChain.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_C_StepChain.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2032
+  },
+  {
+    "doc_name": "aiw_ConfigMediaForTotalFlowPrint.pdf",
+    "rel_path": "RPD-en-US/aiw_ConfigMediaForTotalFlowPrint.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ConfigMediaForTotalFlowPrint.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4368
+  },
+  {
+    "doc_name": "aiw_ConfigSubmitJobs.pdf",
+    "rel_path": "RPD-en-US/aiw_ConfigSubmitJobs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ConfigSubmitJobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1601
+  },
+  {
+    "doc_name": "aiw_ConfigVC60000.pdf",
+    "rel_path": "RPD-en-US/aiw_ConfigVC60000.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ConfigVC60000.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4652
+  },
+  {
+    "doc_name": "aiw_OrdPropMap.pdf",
+    "rel_path": "RPD-en-US/aiw_OrdPropMap.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_OrdPropMap.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4848
+  },
+  {
+    "doc_name": "aiw_OrderPropMap.pdf",
+    "rel_path": "RPD-en-US/aiw_OrderPropMap.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_OrderPropMap.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 3554
+  },
+  {
+    "doc_name": "aiw_RESTAPI.pdf",
+    "rel_path": "RPD-en-US/aiw_RESTAPI.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_RESTAPI.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5312
+  },
+  {
+    "doc_name": "aiw_SetJobDef.Wrkflw.pdf",
+    "rel_path": "RPD-en-US/aiw_SetJobDef.Wrkflw.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_SetJobDef.Wrkflw.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2984
+  },
+  {
+    "doc_name": "aiw_SubmitJobs.pdf",
+    "rel_path": "RPD-en-US/aiw_SubmitJobs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_SubmitJobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1815
+  },
+  {
+    "doc_name": "aiw_addremove_jobs_order.pdf",
+    "rel_path": "RPD-en-US/aiw_addremove_jobs_order.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_addremove_jobs_order.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1091
+  },
+  {
+    "doc_name": "aiw_afpbanners.pdf",
+    "rel_path": "RPD-en-US/aiw_afpbanners.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_afpbanners.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2458
+  },
+  {
+    "doc_name": "aiw_avanti_mapping_ink.pdf",
+    "rel_path": "RPD-en-US/aiw_avanti_mapping_ink.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_avanti_mapping_ink.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2963
+  },
+  {
+    "doc_name": "aiw_bannerpages.pdf",
+    "rel_path": "RPD-en-US/aiw_bannerpages.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_bannerpages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1461
+  },
+  {
+    "doc_name": "aiw_c_ConfigProductIDforPrinter.pdf",
+    "rel_path": "RPD-en-US/aiw_c_ConfigProductIDforPrinter.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_ConfigProductIDforPrinter.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3006
+  },
+  {
+    "doc_name": "aiw_c_DefineCustomPrinter.pdf",
+    "rel_path": "RPD-en-US/aiw_c_DefineCustomPrinter.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_DefineCustomPrinter.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1619
+  },
+  {
+    "doc_name": "aiw_c_DefineCustomPrinterDevice.pdf",
+    "rel_path": "RPD-en-US/aiw_c_DefineCustomPrinterDevice.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_DefineCustomPrinterDevice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4562
+  },
+  {
+    "doc_name": "aiw_c_ImportCustomPrinterFile.pdf",
+    "rel_path": "RPD-en-US/aiw_c_ImportCustomPrinterFile.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_ImportCustomPrinterFile.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1015
+  },
+  {
+    "doc_name": "aiw_c_PrepToSumbitWebservice.pdf",
+    "rel_path": "RPD-en-US/aiw_c_PrepToSumbitWebservice.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_PrepToSumbitWebservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3060
+  },
+  {
+    "doc_name": "aiw_c_RenameStep.pdf",
+    "rel_path": "RPD-en-US/aiw_c_RenameStep.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_RenameStep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1388
+  },
+  {
+    "doc_name": "aiw_c_addconnectorrule.pdf",
+    "rel_path": "RPD-en-US/aiw_c_addconnectorrule.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_addconnectorrule.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 9369
+  },
+  {
+    "doc_name": "aiw_c_addingsteps_decryptPDF.pdf",
+    "rel_path": "RPD-en-US/aiw_c_addingsteps_decryptPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_addingsteps_decryptPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1926
+  },
+  {
+    "doc_name": "aiw_c_addingsteps_encryptPDF.pdf",
+    "rel_path": "RPD-en-US/aiw_c_addingsteps_encryptPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_addingsteps_encryptPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2867
+  },
+  {
+    "doc_name": "aiw_c_addsteps_ProcessDeletedJobs.pdf",
+    "rel_path": "RPD-en-US/aiw_c_addsteps_ProcessDeletedJobs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_addsteps_ProcessDeletedJobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1843
+  },
+  {
+    "doc_name": "aiw_c_addwaitstep.pdf",
+    "rel_path": "RPD-en-US/aiw_c_addwaitstep.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_addwaitstep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3534
+  },
+  {
+    "doc_name": "aiw_c_alternatesmtp.pdf",
+    "rel_path": "RPD-en-US/aiw_c_alternatesmtp.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_alternatesmtp.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2550
+  },
+  {
+    "doc_name": "aiw_c_configforpdpr.pdf",
+    "rel_path": "RPD-en-US/aiw_c_configforpdpr.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_configforpdpr.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2777
+  },
+  {
+    "doc_name": "aiw_c_createworkflow.pdf",
+    "rel_path": "RPD-en-US/aiw_c_createworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_createworkflow.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 9501
+  },
+  {
+    "doc_name": "aiw_c_emailupdates.pdf",
+    "rel_path": "RPD-en-US/aiw_c_emailupdates.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_emailupdates.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1707
+  },
+  {
+    "doc_name": "aiw_c_hintssteptemplates.pdf",
+    "rel_path": "RPD-en-US/aiw_c_hintssteptemplates.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_hintssteptemplates.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 9238
+  },
+  {
+    "doc_name": "aiw_c_hintssupervisorconnect.pdf",
+    "rel_path": "RPD-en-US/aiw_c_hintssupervisorconnect.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_hintssupervisorconnect.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5370
+  },
+  {
+    "doc_name": "aiw_c_json_PrepToReceive.pdf",
+    "rel_path": "RPD-en-US/aiw_c_json_PrepToReceive.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_json_PrepToReceive.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2668
+  },
+  {
+    "doc_name": "aiw_c_mediaobjects.pdf",
+    "rel_path": "RPD-en-US/aiw_c_mediaobjects.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_mediaobjects.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1738
+  },
+  {
+    "doc_name": "aiw_c_over_docprocfeat.pdf",
+    "rel_path": "RPD-en-US/aiw_c_over_docprocfeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_over_docprocfeat.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4525
+  },
+  {
+    "doc_name": "aiw_c_seterrorpath.pdf",
+    "rel_path": "RPD-en-US/aiw_c_seterrorpath.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_seterrorpath.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2701
+  },
+  {
+    "doc_name": "aiw_c_setup_workflow_restarttype.pdf",
+    "rel_path": "RPD-en-US/aiw_c_setup_workflow_restarttype.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_setup_workflow_restarttype.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6999
+  },
+  {
+    "doc_name": "aiw_c_xml_DefineWorkflow.pdf",
+    "rel_path": "RPD-en-US/aiw_c_xml_DefineWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_xml_DefineWorkflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3508
+  },
+  {
+    "doc_name": "aiw_c_xml_PrepToReceive.pdf",
+    "rel_path": "RPD-en-US/aiw_c_xml_PrepToReceive.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_c_xml_PrepToReceive.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5746
+  },
+  {
+    "doc_name": "aiw_comparing_workflows.pdf",
+    "rel_path": "RPD-en-US/aiw_comparing_workflows.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_comparing_workflows.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1820
+  },
+  {
+    "doc_name": "aiw_creating_customprop.pdf",
+    "rel_path": "RPD-en-US/aiw_creating_customprop.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_creating_customprop.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2770
+  },
+  {
+    "doc_name": "aiw_customprops.pdf",
+    "rel_path": "RPD-en-US/aiw_customprops.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_customprops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1581
+  },
+  {
+    "doc_name": "aiw_defineAFPforTotalFlow.pdf",
+    "rel_path": "RPD-en-US/aiw_defineAFPforTotalFlow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_defineAFPforTotalFlow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3650
+  },
+  {
+    "doc_name": "aiw_defineRicohPDFtoTotalFlow.pdf",
+    "rel_path": "RPD-en-US/aiw_defineRicohPDFtoTotalFlow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_defineRicohPDFtoTotalFlow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1114
+  },
+  {
+    "doc_name": "aiw_defineTFPrinterforTFServer.pdf",
+    "rel_path": "RPD-en-US/aiw_defineTFPrinterforTFServer.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_defineTFPrinterforTFServer.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1647
+  },
+  {
+    "doc_name": "aiw_dockerstartstop.pdf",
+    "rel_path": "RPD-en-US/aiw_dockerstartstop.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_dockerstartstop.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2070
+  },
+  {
+    "doc_name": "aiw_emailjobs.pdf",
+    "rel_path": "RPD-en-US/aiw_emailjobs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_emailjobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2348
+  },
+  {
+    "doc_name": "aiw_formatting.pdf",
+    "rel_path": "RPD-en-US/aiw_formatting.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_formatting.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1427
+  },
+  {
+    "doc_name": "aiw_fusionpro_configconnection.pdf",
+    "rel_path": "RPD-en-US/aiw_fusionpro_configconnection.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_fusionpro_configconnection.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1824
+  },
+  {
+    "doc_name": "aiw_fusionpro_configsteptemplate.pdf",
+    "rel_path": "RPD-en-US/aiw_fusionpro_configsteptemplate.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_fusionpro_configsteptemplate.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1716
+  },
+  {
+    "doc_name": "aiw_gmc_configforprintnet.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_configforprintnet.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_configforprintnet.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1574
+  },
+  {
+    "doc_name": "aiw_gmc_configforprintnetPDF.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_configforprintnetPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_configforprintnetPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2034
+  },
+  {
+    "doc_name": "aiw_gmc_configsteptemplateforprintnet.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_configsteptemplateforprintnet.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_configsteptemplateforprintnet.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 889
+  },
+  {
+    "doc_name": "aiw_gmc_designingworkflowtosendpdf.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_designingworkflowtosendpdf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_designingworkflowtosendpdf.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 2576
+  },
+  {
+    "doc_name": "aiw_gmc_overview.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2393
+  },
+  {
+    "doc_name": "aiw_gmc_settingupjobtypesforprintnet.pdf",
+    "rel_path": "RPD-en-US/aiw_gmc_settingupjobtypesforprintnet.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_gmc_settingupjobtypesforprintnet.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2919
+  },
+  {
+    "doc_name": "aiw_jobtype_for_printing.pdf",
+    "rel_path": "RPD-en-US/aiw_jobtype_for_printing.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_jobtype_for_printing.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3134
+  },
+  {
+    "doc_name": "aiw_jobtype_pdfbanners.pdf",
+    "rel_path": "RPD-en-US/aiw_jobtype_pdfbanners.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_jobtype_pdfbanners.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3660
+  },
+  {
+    "doc_name": "aiw_jobtypeforpreviewprint.pdf",
+    "rel_path": "RPD-en-US/aiw_jobtypeforpreviewprint.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_jobtypeforpreviewprint.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2561
+  },
+  {
+    "doc_name": "aiw_m_CompileObjectList.pdf",
+    "rel_path": "RPD-en-US/aiw_m_CompileObjectList.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_m_CompileObjectList.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1985
+  },
+  {
+    "doc_name": "aiw_manfailover_processing.pdf",
+    "rel_path": "RPD-en-US/aiw_manfailover_processing.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_manfailover_processing.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1614
+  },
+  {
+    "doc_name": "aiw_media_detection.pdf",
+    "rel_path": "RPD-en-US/aiw_media_detection.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_media_detection.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3941
+  },
+  {
+    "doc_name": "aiw_o_PDFPageCounts.pdf",
+    "rel_path": "RPD-en-US/aiw_o_PDFPageCounts.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_PDFPageCounts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2055
+  },
+  {
+    "doc_name": "aiw_o_PositionalJobProperties.pdf",
+    "rel_path": "RPD-en-US/aiw_o_PositionalJobProperties.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_PositionalJobProperties.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2351
+  },
+  {
+    "doc_name": "aiw_o_afpdocumentsupport.pdf",
+    "rel_path": "RPD-en-US/aiw_o_afpdocumentsupport.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_afpdocumentsupport.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5919
+  },
+  {
+    "doc_name": "aiw_o_afpsupport_featov.pdf",
+    "rel_path": "RPD-en-US/aiw_o_afpsupport_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_afpsupport_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7171
+  },
+  {
+    "doc_name": "aiw_o_doc_usagescen_ov.pdf",
+    "rel_path": "RPD-en-US/aiw_o_doc_usagescen_ov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_doc_usagescen_ov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1461
+  },
+  {
+    "doc_name": "aiw_o_encryptedPDF.pdf",
+    "rel_path": "RPD-en-US/aiw_o_encryptedPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_encryptedPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3079
+  },
+  {
+    "doc_name": "aiw_o_json_JobsWith.pdf",
+    "rel_path": "RPD-en-US/aiw_o_json_JobsWith.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_json_JobsWith.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1137
+  },
+  {
+    "doc_name": "aiw_o_mediamatching.pdf",
+    "rel_path": "RPD-en-US/aiw_o_mediamatching.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_mediamatching.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4653
+  },
+  {
+    "doc_name": "aiw_o_mediaov.pdf",
+    "rel_path": "RPD-en-US/aiw_o_mediaov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_mediaov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1856
+  },
+  {
+    "doc_name": "aiw_o_mediasubstitution.pdf",
+    "rel_path": "RPD-en-US/aiw_o_mediasubstitution.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_mediasubstitution.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1108
+  },
+  {
+    "doc_name": "aiw_o_pdfdocsupport_featov.pdf",
+    "rel_path": "RPD-en-US/aiw_o_pdfdocsupport_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_pdfdocsupport_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5246
+  },
+  {
+    "doc_name": "aiw_o_xml_JobsWith.pdf",
+    "rel_path": "RPD-en-US/aiw_o_xml_JobsWith.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_xml_JobsWith.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1930
+  },
+  {
+    "doc_name": "aiw_o_xml_scen_orders.pdf",
+    "rel_path": "RPD-en-US/aiw_o_xml_scen_orders.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_o_xml_scen_orders.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 13293
+  },
+  {
+    "doc_name": "aiw_orderduedate.pdf",
+    "rel_path": "RPD-en-US/aiw_orderduedate.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_orderduedate.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1578
+  },
+  {
+    "doc_name": "aiw_ordermanagement.pdf",
+    "rel_path": "RPD-en-US/aiw_ordermanagement.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ordermanagement.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2565
+  },
+  {
+    "doc_name": "aiw_orderpriority.pdf",
+    "rel_path": "RPD-en-US/aiw_orderpriority.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_orderpriority.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1684
+  },
+  {
+    "doc_name": "aiw_orders.pdf",
+    "rel_path": "RPD-en-US/aiw_orders.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_orders.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1164
+  },
+  {
+    "doc_name": "aiw_ordersoverview.pdf",
+    "rel_path": "RPD-en-US/aiw_ordersoverview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ordersoverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2002
+  },
+  {
+    "doc_name": "aiw_passthroughptr_bannerpgs.pdf",
+    "rel_path": "RPD-en-US/aiw_passthroughptr_bannerpgs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_passthroughptr_bannerpgs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2867
+  },
+  {
+    "doc_name": "aiw_pdfbanners.pdf",
+    "rel_path": "RPD-en-US/aiw_pdfbanners.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_pdfbanners.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1961
+  },
+  {
+    "doc_name": "aiw_print_job.pdf",
+    "rel_path": "RPD-en-US/aiw_print_job.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_print_job.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2417
+  },
+  {
+    "doc_name": "aiw_propmapping.pdf",
+    "rel_path": "RPD-en-US/aiw_propmapping.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_propmapping.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1176
+  },
+  {
+    "doc_name": "aiw_receiveord.pdf",
+    "rel_path": "RPD-en-US/aiw_receiveord.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_receiveord.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3028
+  },
+  {
+    "doc_name": "aiw_ricohpdfptr_bannerpgs.pdf",
+    "rel_path": "RPD-en-US/aiw_ricohpdfptr_bannerpgs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ricohpdfptr_bannerpgs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3193
+  },
+  {
+    "doc_name": "aiw_sdk_batch.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_batch.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_batch.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1340
+  },
+  {
+    "doc_name": "aiw_sdk_batchmeth.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_batchmeth.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_batchmeth.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4496
+  },
+  {
+    "doc_name": "aiw_sdk_extprog.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_extprog.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_extprog.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6723
+  },
+  {
+    "doc_name": "aiw_sdk_fileloc.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_fileloc.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_fileloc.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4810
+  },
+  {
+    "doc_name": "aiw_sdk_jdf.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_jdf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_jdf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2169
+  },
+  {
+    "doc_name": "aiw_sdk_jdfjobprops.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_jdfjobprops.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_jdfjobprops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4864
+  },
+  {
+    "doc_name": "aiw_sdk_list.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_list.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_list.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2469
+  },
+  {
+    "doc_name": "aiw_sdk_listfiles.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_listfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_listfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2626
+  },
+  {
+    "doc_name": "aiw_sdk_none.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_none.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_none.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 325
+  },
+  {
+    "doc_name": "aiw_sdk_number.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_number.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_number.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1665
+  },
+  {
+    "doc_name": "aiw_sdk_number.sets.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_number.sets.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_number.sets.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2359
+  },
+  {
+    "doc_name": "aiw_sdk_overrides.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_overrides.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_overrides.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2568
+  },
+  {
+    "doc_name": "aiw_sdk_pages.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_pages.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_pages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3341
+  },
+  {
+    "doc_name": "aiw_sdk_pages.sets.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_pages.sets.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_pages.sets.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4346
+  },
+  {
+    "doc_name": "aiw_sdk_pattern.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_pattern.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_pattern.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 5952
+  },
+  {
+    "doc_name": "aiw_sdk_time.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_time.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_time.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2695
+  },
+  {
+    "doc_name": "aiw_sdk_time.sets.pdf",
+    "rel_path": "RPD-en-US/aiw_sdk_time.sets.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sdk_time.sets.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3721
+  },
+  {
+    "doc_name": "aiw_sec_featov.pdf",
+    "rel_path": "RPD-en-US/aiw_sec_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sec_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1134
+  },
+  {
+    "doc_name": "aiw_sec_m_movetoLDAP.pdf",
+    "rel_path": "RPD-en-US/aiw_sec_m_movetoLDAP.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sec_m_movetoLDAP.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1505
+  },
+  {
+    "doc_name": "aiw_sendOtherToTotalFlowPrint.pdf",
+    "rel_path": "RPD-en-US/aiw_sendOtherToTotalFlowPrint.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_sendOtherToTotalFlowPrint.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1367
+  },
+  {
+    "doc_name": "aiw_setuptotalflow.pdf",
+    "rel_path": "RPD-en-US/aiw_setuptotalflow.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_setuptotalflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2466
+  },
+  {
+    "doc_name": "aiw_stopdelete_orders.pdf",
+    "rel_path": "RPD-en-US/aiw_stopdelete_orders.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_stopdelete_orders.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1363
+  },
+  {
+    "doc_name": "aiw_supconn_overview.pdf",
+    "rel_path": "RPD-en-US/aiw_supconn_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_supconn_overview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4792
+  },
+  {
+    "doc_name": "aiw_supervisor.pdf",
+    "rel_path": "RPD-en-US/aiw_supervisor.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_supervisor.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4293
+  },
+  {
+    "doc_name": "aiw_t_configemail.pdf",
+    "rel_path": "RPD-en-US/aiw_t_configemail.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_t_configemail.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2096
+  },
+  {
+    "doc_name": "aiw_useannotations.pdf",
+    "rel_path": "RPD-en-US/aiw_useannotations.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_useannotations.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1868
+  },
+  {
+    "doc_name": "aiw_workflownotifications.pdf",
+    "rel_path": "RPD-en-US/aiw_workflownotifications.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_workflownotifications.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2529
+  },
+  {
+    "doc_name": "aiw_ws_overview.pdf",
+    "rel_path": "RPD-en-US/aiw_ws_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ws_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1945
+  },
+  {
+    "doc_name": "aiw_ws_usagenotes.pdf",
+    "rel_path": "RPD-en-US/aiw_ws_usagenotes.pdf",
+    "json_path": "data/processed/RPD-en-US_aiw_ws_usagenotes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1567
+  },
+  {
+    "doc_name": "aiwacustomdevicesview.pdf",
+    "rel_path": "RPD-en-US/aiwacustomdevicesview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwacustomdevicesview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2218
+  },
+  {
+    "doc_name": "aiwacustomprintersview.pdf",
+    "rel_path": "RPD-en-US/aiwacustomprintersview.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwacustomprintersview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2118
+  },
+  {
+    "doc_name": "aiwashowinputf.pdf",
+    "rel_path": "RPD-en-US/aiwashowinputf.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwashowinputf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 831
+  },
+  {
+    "doc_name": "aiwastartingstopping.pdf",
+    "rel_path": "RPD-en-US/aiwastartingstopping.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwastartingstopping.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2263
+  },
+  {
+    "doc_name": "aiwcAFPresext.pdf",
+    "rel_path": "RPD-en-US/aiwcAFPresext.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcAFPresext.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 6585
+  },
+  {
+    "doc_name": "aiwcafpres.pdf",
+    "rel_path": "RPD-en-US/aiwcafpres.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcafpres.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7216
+  },
+  {
+    "doc_name": "aiwcholdjob.pdf",
+    "rel_path": "RPD-en-US/aiwcholdjob.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcholdjob.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2884
+  },
+  {
+    "doc_name": "aiwcjtextstep.pdf",
+    "rel_path": "RPD-en-US/aiwcjtextstep.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcjtextstep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2199
+  },
+  {
+    "doc_name": "aiwcstextstep.pdf",
+    "rel_path": "RPD-en-US/aiwcstextstep.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcstextstep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1154
+  },
+  {
+    "doc_name": "aiwcstextstephot.pdf",
+    "rel_path": "RPD-en-US/aiwcstextstephot.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcstextstephot.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5385
+  },
+  {
+    "doc_name": "aiwcstextstepnothot.pdf",
+    "rel_path": "RPD-en-US/aiwcstextstepnothot.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwcstextstepnothot.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6761
+  },
+  {
+    "doc_name": "aiwctestextstep.pdf",
+    "rel_path": "RPD-en-US/aiwctestextstep.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwctestextstep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1050
+  },
+  {
+    "doc_name": "aiwctransid.pdf",
+    "rel_path": "RPD-en-US/aiwctransid.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwctransid.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1760
+  },
+  {
+    "doc_name": "aiwctransjt.pdf",
+    "rel_path": "RPD-en-US/aiwctransjt.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwctransjt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3383
+  },
+  {
+    "doc_name": "aiwdoc_c_doc_scen_one_many.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_c_doc_scen_one_many.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_c_doc_scen_one_many.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1367
+  },
+  {
+    "doc_name": "aiwdoc_c_doc_scen_one_one.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_c_doc_scen_one_one.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_c_doc_scen_one_one.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1333
+  },
+  {
+    "doc_name": "aiwdoc_c_docpoolov.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_c_docpoolov.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_c_docpoolov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 589
+  },
+  {
+    "doc_name": "aiwdoc_i_c_create_jt_splitdocprop.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_c_create_jt_splitdocprop.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_c_create_jt_splitdocprop.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 2373
+  },
+  {
+    "doc_name": "aiwdoc_i_c_create_jt_splitsize.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_c_create_jt_splitsize.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_c_create_jt_splitsize.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4416
+  },
+  {
+    "doc_name": "aiwdoc_i_r_supportingmorelangs.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_r_supportingmorelangs.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_r_supportingmorelangs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2547
+  },
+  {
+    "doc_name": "aiwdoc_i_t_cfgmaxdocsearch.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_t_cfgmaxdocsearch.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_t_cfgmaxdocsearch.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 721
+  },
+  {
+    "doc_name": "aiwdoc_i_t_editdocdefpropsfile.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_t_editdocdefpropsfile.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_t_editdocdefpropsfile.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5944
+  },
+  {
+    "doc_name": "aiwdoc_i_t_editdocproptemplate.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_t_editdocproptemplate.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_t_editdocproptemplate.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4114
+  },
+  {
+    "doc_name": "aiwdoc_i_t_reactivate.pdf",
+    "rel_path": "RPD-en-US/aiwdoc_i_t_reactivate.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwdoc_i_t_reactivate.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2612
+  },
+  {
+    "doc_name": "aiwi0_advwffeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_advwffeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_advwffeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1558
+  },
+  {
+    "doc_name": "aiwi0_afpfeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_afpfeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_afpfeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1306
+  },
+  {
+    "doc_name": "aiwi0_basefeatures.pdf",
+    "rel_path": "RPD-en-US/aiwi0_basefeatures.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_basefeatures.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2667
+  },
+  {
+    "doc_name": "aiwi0_enhancefeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_enhancefeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_enhancefeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1909
+  },
+  {
+    "doc_name": "aiwi0_features.pdf",
+    "rel_path": "RPD-en-US/aiwi0_features.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_features.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 436
+  },
+  {
+    "doc_name": "aiwi0_integratefeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_integratefeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_integratefeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2821
+  },
+  {
+    "doc_name": "aiwi0_langpackfeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_langpackfeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_langpackfeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 704
+  },
+  {
+    "doc_name": "aiwi0_rtransforms.pdf",
+    "rel_path": "RPD-en-US/aiwi0_rtransforms.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_rtransforms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1452
+  },
+  {
+    "doc_name": "aiwi0_subscription.pdf",
+    "rel_path": "RPD-en-US/aiwi0_subscription.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_subscription.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1124
+  },
+  {
+    "doc_name": "aiwi0_transformfeat.pdf",
+    "rel_path": "RPD-en-US/aiwi0_transformfeat.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi0_transformfeat.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 610
+  },
+  {
+    "doc_name": "aiwi_copyconfigurationfiles.pdf",
+    "rel_path": "RPD-en-US/aiwi_copyconfigurationfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi_copyconfigurationfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3377
+  },
+  {
+    "doc_name": "aiwi_whatsnew.pdf",
+    "rel_path": "RPD-en-US/aiwi_whatsnew.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwi_whatsnew.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 15316
+  },
+  {
+    "doc_name": "aiwj_inlineresources.pdf",
+    "rel_path": "RPD-en-US/aiwj_inlineresources.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwj_inlineresources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2300
+  },
+  {
+    "doc_name": "aiwsecondaryservers.pdf",
+    "rel_path": "RPD-en-US/aiwsecondaryservers.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwsecondaryservers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3375
+  },
+  {
+    "doc_name": "aiwstartwinservice.pdf",
+    "rel_path": "RPD-en-US/aiwstartwinservice.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwstartwinservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 740
+  },
+  {
+    "doc_name": "aiwstopwinservice.pdf",
+    "rel_path": "RPD-en-US/aiwstopwinservice.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwstopwinservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 710
+  },
+  {
+    "doc_name": "aiwtunesteptemplate.pdf",
+    "rel_path": "RPD-en-US/aiwtunesteptemplate.pdf",
+    "json_path": "data/processed/RPD-en-US_aiwtunesteptemplate.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3474
+  },
+  {
+    "doc_name": "assigningcontent.pdf",
+    "rel_path": "RPD-en-US/assigningcontent.pdf",
+    "json_path": "data/processed/RPD-en-US_assigningcontent.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1565
+  },
+  {
+    "doc_name": "avanti_ConfigSlingshot.pdf",
+    "rel_path": "RPD-en-US/avanti_ConfigSlingshot.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_ConfigSlingshot.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2777
+  },
+  {
+    "doc_name": "avanti_c_AddCreateOrderStepToWF.pdf",
+    "rel_path": "RPD-en-US/avanti_c_AddCreateOrderStepToWF.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_c_AddCreateOrderStepToWF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4555
+  },
+  {
+    "doc_name": "avanti_c_ModifyWorkflow.pdf",
+    "rel_path": "RPD-en-US/avanti_c_ModifyWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_c_ModifyWorkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4544
+  },
+  {
+    "doc_name": "avanti_c_SetupHotFolder.pdf",
+    "rel_path": "RPD-en-US/avanti_c_SetupHotFolder.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_c_SetupHotFolder.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1759
+  },
+  {
+    "doc_name": "avanti_c_configSlingshot.pdf",
+    "rel_path": "RPD-en-US/avanti_c_configSlingshot.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_c_configSlingshot.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3914
+  },
+  {
+    "doc_name": "avanti_c_configforAvanti.pdf",
+    "rel_path": "RPD-en-US/avanti_c_configforAvanti.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_c_configforAvanti.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5013
+  },
+  {
+    "doc_name": "avanti_o_featov.pdf",
+    "rel_path": "RPD-en-US/avanti_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_o_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5681
+  },
+  {
+    "doc_name": "avanti_o_scen_RPDreceivesjob.pdf",
+    "rel_path": "RPD-en-US/avanti_o_scen_RPDreceivesjob.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_o_scen_RPDreceivesjob.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4087
+  },
+  {
+    "doc_name": "avanti_r_SendingInfoToAvanti.pdf",
+    "rel_path": "RPD-en-US/avanti_r_SendingInfoToAvanti.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_r_SendingInfoToAvanti.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2044
+  },
+  {
+    "doc_name": "avanti_t_assignCCtoPrinter.pdf",
+    "rel_path": "RPD-en-US/avanti_t_assignCCtoPrinter.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_t_assignCCtoPrinter.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2772
+  },
+  {
+    "doc_name": "avanti_t_defineCostCenters.pdf",
+    "rel_path": "RPD-en-US/avanti_t_defineCostCenters.pdf",
+    "json_path": "data/processed/RPD-en-US_avanti_t_defineCostCenters.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1921
+  },
+  {
+    "doc_name": "ave_Pipeline_filters.pdf",
+    "rel_path": "RPD-en-US/ave_Pipeline_filters.pdf",
+    "json_path": "data/processed/RPD-en-US_ave_Pipeline_filters.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 5984
+  },
+  {
+    "doc_name": "ave_filters_supportedobjects.pdf",
+    "rel_path": "RPD-en-US/ave_filters_supportedobjects.pdf",
+    "json_path": "data/processed/RPD-en-US_ave_filters_supportedobjects.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 675
+  },
+  {
+    "doc_name": "ave_stucturefields_table.pdf",
+    "rel_path": "RPD-en-US/ave_stucturefields_table.pdf",
+    "json_path": "data/processed/RPD-en-US_ave_stucturefields_table.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 877
+  },
+  {
+    "doc_name": "barcode_IMBdata_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_IMBdata_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_IMBdata_tab.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3226
+  },
+  {
+    "doc_name": "barcode_IMBreplacedata_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_IMBreplacedata_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_IMBreplacedata_tab.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3389
+  },
+  {
+    "doc_name": "barcode_IMBreplaceposition_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_IMBreplaceposition_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_IMBreplaceposition_tab.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4350
+  },
+  {
+    "doc_name": "barcode_IMBtype_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_IMBtype_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_IMBtype_tab.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1568
+  },
+  {
+    "doc_name": "barcode_data_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_data_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_data_tab.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3186
+  },
+  {
+    "doc_name": "barcode_position_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_position_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_position_tab.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4811
+  },
+  {
+    "doc_name": "barcode_type_tab.pdf",
+    "rel_path": "RPD-en-US/barcode_type_tab.pdf",
+    "json_path": "data/processed/RPD-en-US_barcode_type_tab.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 5257
+  },
+  {
+    "doc_name": "cac_AFPColorPrintAndMgmt.pdf",
+    "rel_path": "RPD-en-US/cac_AFPColorPrintAndMgmt.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_AFPColorPrintAndMgmt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1755
+  },
+  {
+    "doc_name": "cac_CMRColorConv.pdf",
+    "rel_path": "RPD-en-US/cac_CMRColorConv.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRColorConv.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1405
+  },
+  {
+    "doc_name": "cac_CMRCreateInstall.pdf",
+    "rel_path": "RPD-en-US/cac_CMRCreateInstall.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRCreateInstall.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1461
+  },
+  {
+    "doc_name": "cac_CMRHalftone.pdf",
+    "rel_path": "RPD-en-US/cac_CMRHalftone.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRHalftone.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3527
+  },
+  {
+    "doc_name": "cac_CMRIndexed.pdf",
+    "rel_path": "RPD-en-US/cac_CMRIndexed.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRIndexed.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 951
+  },
+  {
+    "doc_name": "cac_CMRLink.pdf",
+    "rel_path": "RPD-en-US/cac_CMRLink.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRLink.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3815
+  },
+  {
+    "doc_name": "cac_CMRModeAudit.pdf",
+    "rel_path": "RPD-en-US/cac_CMRModeAudit.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRModeAudit.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1402
+  },
+  {
+    "doc_name": "cac_CMRModeInstr.pdf",
+    "rel_path": "RPD-en-US/cac_CMRModeInstr.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRModeInstr.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2553
+  },
+  {
+    "doc_name": "cac_CMRModeLink.pdf",
+    "rel_path": "RPD-en-US/cac_CMRModeLink.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRModeLink.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1975
+  },
+  {
+    "doc_name": "cac_CMRModes.pdf",
+    "rel_path": "RPD-en-US/cac_CMRModes.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRModes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1318
+  },
+  {
+    "doc_name": "cac_CMRToneTransfer.pdf",
+    "rel_path": "RPD-en-US/cac_CMRToneTransfer.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRToneTransfer.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2511
+  },
+  {
+    "doc_name": "cac_CMRTypes.pdf",
+    "rel_path": "RPD-en-US/cac_CMRTypes.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRTypes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2001
+  },
+  {
+    "doc_name": "cac_CMRs.pdf",
+    "rel_path": "RPD-en-US/cac_CMRs.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_CMRs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3521
+  },
+  {
+    "doc_name": "cac_ColorConcepts.pdf",
+    "rel_path": "RPD-en-US/cac_ColorConcepts.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ColorConcepts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2593
+  },
+  {
+    "doc_name": "cac_ColorMgmt.pdf",
+    "rel_path": "RPD-en-US/cac_ColorMgmt.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ColorMgmt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1797
+  },
+  {
+    "doc_name": "cac_DORTypes.pdf",
+    "rel_path": "RPD-en-US/cac_DORTypes.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_DORTypes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4390
+  },
+  {
+    "doc_name": "cac_DataObjectCreation.pdf",
+    "rel_path": "RPD-en-US/cac_DataObjectCreation.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_DataObjectCreation.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2576
+  },
+  {
+    "doc_name": "cac_DataObjectResources.pdf",
+    "rel_path": "RPD-en-US/cac_DataObjectResources.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_DataObjectResources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1448
+  },
+  {
+    "doc_name": "cac_FileSize.pdf",
+    "rel_path": "RPD-en-US/cac_FileSize.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_FileSize.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1418
+  },
+  {
+    "doc_name": "cac_GamutAndRenderingIntent.pdf",
+    "rel_path": "RPD-en-US/cac_GamutAndRenderingIntent.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_GamutAndRenderingIntent.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1226
+  },
+  {
+    "doc_name": "cac_GrayscaleConcepts.pdf",
+    "rel_path": "RPD-en-US/cac_GrayscaleConcepts.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_GrayscaleConcepts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3177
+  },
+  {
+    "doc_name": "cac_HTandTTC.pdf",
+    "rel_path": "RPD-en-US/cac_HTandTTC.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_HTandTTC.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2962
+  },
+  {
+    "doc_name": "cac_Halftone_4100.pdf",
+    "rel_path": "RPD-en-US/cac_Halftone_4100.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Halftone_4100.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4030
+  },
+  {
+    "doc_name": "cac_ICCProfiles.pdf",
+    "rel_path": "RPD-en-US/cac_ICCProfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ICCProfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1750
+  },
+  {
+    "doc_name": "cac_IP1000s.pdf",
+    "rel_path": "RPD-en-US/cac_IP1000s.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IP1000s.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 817
+  },
+  {
+    "doc_name": "cac_IP4100.pdf",
+    "rel_path": "RPD-en-US/cac_IP4100.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IP4100.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1775
+  },
+  {
+    "doc_name": "cac_IP5000.pdf",
+    "rel_path": "RPD-en-US/cac_IP5000.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IP5000.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1296
+  },
+  {
+    "doc_name": "cac_IPM.pdf",
+    "rel_path": "RPD-en-US/cac_IPM.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IPM.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1574
+  },
+  {
+    "doc_name": "cac_IPPD.pdf",
+    "rel_path": "RPD-en-US/cac_IPPD.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IPPD.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1175
+  },
+  {
+    "doc_name": "cac_IPSColorProducts.pdf",
+    "rel_path": "RPD-en-US/cac_IPSColorProducts.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_IPSColorProducts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1431
+  },
+  {
+    "doc_name": "cac_InfoPrintColorSolutions.pdf",
+    "rel_path": "RPD-en-US/cac_InfoPrintColorSolutions.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_InfoPrintColorSolutions.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4057
+  },
+  {
+    "doc_name": "cac_ManagingResources.pdf",
+    "rel_path": "RPD-en-US/cac_ManagingResources.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ManagingResources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2315
+  },
+  {
+    "doc_name": "cac_MixingAndCalibration.pdf",
+    "rel_path": "RPD-en-US/cac_MixingAndCalibration.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_MixingAndCalibration.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1697
+  },
+  {
+    "doc_name": "cac_Overview.pdf",
+    "rel_path": "RPD-en-US/cac_Overview.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2829
+  },
+  {
+    "doc_name": "cac_PPFA.pdf",
+    "rel_path": "RPD-en-US/cac_PPFA.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_PPFA.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 740
+  },
+  {
+    "doc_name": "cac_Paper.pdf",
+    "rel_path": "RPD-en-US/cac_Paper.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Paper.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1373
+  },
+  {
+    "doc_name": "cac_Printers.pdf",
+    "rel_path": "RPD-en-US/cac_Printers.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Printers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1191
+  },
+  {
+    "doc_name": "cac_RelatedPubs.pdf",
+    "rel_path": "RPD-en-US/cac_RelatedPubs.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_RelatedPubs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1097
+  },
+  {
+    "doc_name": "cac_RenderingIntent.pdf",
+    "rel_path": "RPD-en-US/cac_RenderingIntent.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_RenderingIntent.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2581
+  },
+  {
+    "doc_name": "cac_ReplaceInserts.pdf",
+    "rel_path": "RPD-en-US/cac_ReplaceInserts.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ReplaceInserts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3333
+  },
+  {
+    "doc_name": "cac_ReplacePrintedForms.pdf",
+    "rel_path": "RPD-en-US/cac_ReplacePrintedForms.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ReplacePrintedForms.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6544
+  },
+  {
+    "doc_name": "cac_ResInst.pdf",
+    "rel_path": "RPD-en-US/cac_ResInst.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_ResInst.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2459
+  },
+  {
+    "doc_name": "cac_Scenarios.pdf",
+    "rel_path": "RPD-en-US/cac_Scenarios.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Scenarios.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1124
+  },
+  {
+    "doc_name": "cac_Servers.pdf",
+    "rel_path": "RPD-en-US/cac_Servers.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_Servers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1396
+  },
+  {
+    "doc_name": "cac_SpacesAndProfiles.pdf",
+    "rel_path": "RPD-en-US/cac_SpacesAndProfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_SpacesAndProfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4770
+  },
+  {
+    "doc_name": "cac_TipsImages.pdf",
+    "rel_path": "RPD-en-US/cac_TipsImages.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_TipsImages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1306
+  },
+  {
+    "doc_name": "cac_TipsResources.pdf",
+    "rel_path": "RPD-en-US/cac_TipsResources.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_TipsResources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1157
+  },
+  {
+    "doc_name": "cac_TipsandBP.pdf",
+    "rel_path": "RPD-en-US/cac_TipsandBP.pdf",
+    "json_path": "data/processed/RPD-en-US_cac_TipsandBP.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 733
+  },
+  {
+    "doc_name": "callcenter_o_featov.pdf",
+    "rel_path": "RPD-en-US/callcenter_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_callcenter_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 914
+  },
+  {
+    "doc_name": "callcenter_o_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/callcenter_o_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_callcenter_o_runsamplewf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2200
+  },
+  {
+    "doc_name": "changingdefaultcodepage.pdf",
+    "rel_path": "RPD-en-US/changingdefaultcodepage.pdf",
+    "json_path": "data/processed/RPD-en-US_changingdefaultcodepage.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1374
+  },
+  {
+    "doc_name": "changingfonts.pdf",
+    "rel_path": "RPD-en-US/changingfonts.pdf",
+    "json_path": "data/processed/RPD-en-US_changingfonts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3121
+  },
+  {
+    "doc_name": "configuringidentifystep.pdf",
+    "rel_path": "RPD-en-US/configuringidentifystep.pdf",
+    "json_path": "data/processed/RPD-en-US_configuringidentifystep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2692
+  },
+  {
+    "doc_name": "configuringidentifystep2.pdf",
+    "rel_path": "RPD-en-US/configuringidentifystep2.pdf",
+    "json_path": "data/processed/RPD-en-US_configuringidentifystep2.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2757
+  },
+  {
+    "doc_name": "configuringidentifystep3.pdf",
+    "rel_path": "RPD-en-US/configuringidentifystep3.pdf",
+    "json_path": "data/processed/RPD-en-US_configuringidentifystep3.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2787
+  },
+  {
+    "doc_name": "content_overview.pdf",
+    "rel_path": "RPD-en-US/content_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_content_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2150
+  },
+  {
+    "doc_name": "copyingindexes.pdf",
+    "rel_path": "RPD-en-US/copyingindexes.pdf",
+    "json_path": "data/processed/RPD-en-US_copyingindexes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2483
+  },
+  {
+    "doc_name": "cpt_c_WorkflowsForAdvTransforms.pdf",
+    "rel_path": "RPD-en-US/cpt_c_WorkflowsForAdvTransforms.pdf",
+    "json_path": "data/processed/RPD-en-US_cpt_c_WorkflowsForAdvTransforms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1575
+  },
+  {
+    "doc_name": "cpt_c_extov.pdf",
+    "rel_path": "RPD-en-US/cpt_c_extov.pdf",
+    "json_path": "data/processed/RPD-en-US_cpt_c_extov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1522
+  },
+  {
+    "doc_name": "cpt_config_configtouse.pdf",
+    "rel_path": "RPD-en-US/cpt_config_configtouse.pdf",
+    "json_path": "data/processed/RPD-en-US_cpt_config_configtouse.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1161
+  },
+  {
+    "doc_name": "cptoutputpdf_c_MappingMedia.pdf",
+    "rel_path": "RPD-en-US/cptoutputpdf_c_MappingMedia.pdf",
+    "json_path": "data/processed/RPD-en-US_cptoutputpdf_c_MappingMedia.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2602
+  },
+  {
+    "doc_name": "cptoutputpdf_c_WFforPDFwithMedia.pdf",
+    "rel_path": "RPD-en-US/cptoutputpdf_c_WFforPDFwithMedia.pdf",
+    "json_path": "data/processed/RPD-en-US_cptoutputpdf_c_WFforPDFwithMedia.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4206
+  },
+  {
+    "doc_name": "create_edit_notes.pdf",
+    "rel_path": "RPD-en-US/create_edit_notes.pdf",
+    "json_path": "data/processed/RPD-en-US_create_edit_notes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2260
+  },
+  {
+    "doc_name": "createcond.pdf",
+    "rel_path": "RPD-en-US/createcond.pdf",
+    "json_path": "data/processed/RPD-en-US_createcond.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1660
+  },
+  {
+    "doc_name": "createindexesfromnops.pdf",
+    "rel_path": "RPD-en-US/createindexesfromnops.pdf",
+    "json_path": "data/processed/RPD-en-US_createindexesfromnops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3008
+  },
+  {
+    "doc_name": "createwstrigger.pdf",
+    "rel_path": "RPD-en-US/createwstrigger.pdf",
+    "json_path": "data/processed/RPD-en-US_createwstrigger.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3187
+  },
+  {
+    "doc_name": "creatingbarcodes.pdf",
+    "rel_path": "RPD-en-US/creatingbarcodes.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingbarcodes.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5212
+  },
+  {
+    "doc_name": "creatingcontent.pdf",
+    "rel_path": "RPD-en-US/creatingcontent.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingcontent.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4470
+  },
+  {
+    "doc_name": "creatingcontrolfiles.pdf",
+    "rel_path": "RPD-en-US/creatingcontrolfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingcontrolfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3391
+  },
+  {
+    "doc_name": "creatingfontmappings.pdf",
+    "rel_path": "RPD-en-US/creatingfontmappings.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingfontmappings.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 6012
+  },
+  {
+    "doc_name": "creatingindexes.pdf",
+    "rel_path": "RPD-en-US/creatingindexes.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingindexes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3793
+  },
+  {
+    "doc_name": "creatingindexescontainer.pdf",
+    "rel_path": "RPD-en-US/creatingindexescontainer.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingindexescontainer.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1473
+  },
+  {
+    "doc_name": "creatingindexesinaddressarea.pdf",
+    "rel_path": "RPD-en-US/creatingindexesinaddressarea.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingindexesinaddressarea.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 9715
+  },
+  {
+    "doc_name": "creatingindexesinarea.pdf",
+    "rel_path": "RPD-en-US/creatingindexesinarea.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingindexesinarea.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6583
+  },
+  {
+    "doc_name": "creatingpagegroups.pdf",
+    "rel_path": "RPD-en-US/creatingpagegroups.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingpagegroups.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6765
+  },
+  {
+    "doc_name": "creatingpagegroupscontainer.pdf",
+    "rel_path": "RPD-en-US/creatingpagegroupscontainer.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingpagegroupscontainer.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2048
+  },
+  {
+    "doc_name": "creatingpagegroupsfixed.pdf",
+    "rel_path": "RPD-en-US/creatingpagegroupsfixed.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingpagegroupsfixed.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2648
+  },
+  {
+    "doc_name": "creatingserialfile.pdf",
+    "rel_path": "RPD-en-US/creatingserialfile.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingserialfile.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1615
+  },
+  {
+    "doc_name": "creatingsupplpagesindex.pdf",
+    "rel_path": "RPD-en-US/creatingsupplpagesindex.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingsupplpagesindex.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2563
+  },
+  {
+    "doc_name": "creatingsupplpagestrigger.pdf",
+    "rel_path": "RPD-en-US/creatingsupplpagestrigger.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingsupplpagestrigger.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5085
+  },
+  {
+    "doc_name": "creatingtextstrings.pdf",
+    "rel_path": "RPD-en-US/creatingtextstrings.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingtextstrings.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4889
+  },
+  {
+    "doc_name": "creatingwsdefavail.pdf",
+    "rel_path": "RPD-en-US/creatingwsdefavail.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingwsdefavail.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4847
+  },
+  {
+    "doc_name": "creatingwsdefsearch.pdf",
+    "rel_path": "RPD-en-US/creatingwsdefsearch.pdf",
+    "json_path": "data/processed/RPD-en-US_creatingwsdefsearch.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6062
+  },
+  {
+    "doc_name": "definingheadertrailers.pdf",
+    "rel_path": "RPD-en-US/definingheadertrailers.pdf",
+    "json_path": "data/processed/RPD-en-US_definingheadertrailers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1997
+  },
+  {
+    "doc_name": "defininglinkoptions.pdf",
+    "rel_path": "RPD-en-US/defininglinkoptions.pdf",
+    "json_path": "data/processed/RPD-en-US_defininglinkoptions.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7472
+  },
+  {
+    "doc_name": "definingpageswithindex.pdf",
+    "rel_path": "RPD-en-US/definingpageswithindex.pdf",
+    "json_path": "data/processed/RPD-en-US_definingpageswithindex.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3812
+  },
+  {
+    "doc_name": "definingpageswithtrig.pdf",
+    "rel_path": "RPD-en-US/definingpageswithtrig.pdf",
+    "json_path": "data/processed/RPD-en-US_definingpageswithtrig.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3779
+  },
+  {
+    "doc_name": "definingsupplementalpages.pdf",
+    "rel_path": "RPD-en-US/definingsupplementalpages.pdf",
+    "json_path": "data/processed/RPD-en-US_definingsupplementalpages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1342
+  },
+  {
+    "doc_name": "definitionoperators.pdf",
+    "rel_path": "RPD-en-US/definitionoperators.pdf",
+    "json_path": "data/processed/RPD-en-US_definitionoperators.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2357
+  },
+  {
+    "doc_name": "deletingbarcodes.pdf",
+    "rel_path": "RPD-en-US/deletingbarcodes.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingbarcodes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1105
+  },
+  {
+    "doc_name": "deletingcontent.pdf",
+    "rel_path": "RPD-en-US/deletingcontent.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingcontent.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1624
+  },
+  {
+    "doc_name": "deletinghiddenareas.pdf",
+    "rel_path": "RPD-en-US/deletinghiddenareas.pdf",
+    "json_path": "data/processed/RPD-en-US_deletinghiddenareas.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1020
+  },
+  {
+    "doc_name": "deletingindexes.pdf",
+    "rel_path": "RPD-en-US/deletingindexes.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingindexes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2819
+  },
+  {
+    "doc_name": "deletingoperators.pdf",
+    "rel_path": "RPD-en-US/deletingoperators.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingoperators.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1085
+  },
+  {
+    "doc_name": "deletingtextstrings.pdf",
+    "rel_path": "RPD-en-US/deletingtextstrings.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingtextstrings.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1038
+  },
+  {
+    "doc_name": "deletingtriggers.pdf",
+    "rel_path": "RPD-en-US/deletingtriggers.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingtriggers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2267
+  },
+  {
+    "doc_name": "deletingwsdefs.pdf",
+    "rel_path": "RPD-en-US/deletingwsdefs.pdf",
+    "json_path": "data/processed/RPD-en-US_deletingwsdefs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1374
+  },
+  {
+    "doc_name": "designeroverview.pdf",
+    "rel_path": "RPD-en-US/designeroverview.pdf",
+    "json_path": "data/processed/RPD-en-US_designeroverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3725
+  },
+  {
+    "doc_name": "designingproperties.pdf",
+    "rel_path": "RPD-en-US/designingproperties.pdf",
+    "json_path": "data/processed/RPD-en-US_designingproperties.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2200
+  },
+  {
+    "doc_name": "doc_c_DefineCustomDocProps.pdf",
+    "rel_path": "RPD-en-US/doc_c_DefineCustomDocProps.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_DefineCustomDocProps.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 8858
+  },
+  {
+    "doc_name": "doc_c_RunningPullPDFDocsWF.pdf",
+    "rel_path": "RPD-en-US/doc_c_RunningPullPDFDocsWF.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_RunningPullPDFDocsWF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3973
+  },
+  {
+    "doc_name": "doc_c_SetUpManualReconciliation.pdf",
+    "rel_path": "RPD-en-US/doc_c_SetUpManualReconciliation.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_SetUpManualReconciliation.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8231
+  },
+  {
+    "doc_name": "doc_c_config_pull.pdf",
+    "rel_path": "RPD-en-US/doc_c_config_pull.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_config_pull.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1466
+  },
+  {
+    "doc_name": "doc_c_createworkflow_pull.pdf",
+    "rel_path": "RPD-en-US/doc_c_createworkflow_pull.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_createworkflow_pull.json",
+    "num_pages": 5,
+    "nonempty_pages": 5,
+    "total_chars": 16656
+  },
+  {
+    "doc_name": "doc_c_docpropconfigfiledef.pdf",
+    "rel_path": "RPD-en-US/doc_c_docpropconfigfiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_docpropconfigfiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 880
+  },
+  {
+    "doc_name": "doc_c_docpropfiledef.pdf",
+    "rel_path": "RPD-en-US/doc_c_docpropfiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_docpropfiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 843
+  },
+  {
+    "doc_name": "doc_c_docpropnamesfiledef.pdf",
+    "rel_path": "RPD-en-US/doc_c_docpropnamesfiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_docpropnamesfiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 736
+  },
+  {
+    "doc_name": "doc_c_docproptemplatefiledef.pdf",
+    "rel_path": "RPD-en-US/doc_c_docproptemplatefiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_docproptemplatefiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 583
+  },
+  {
+    "doc_name": "doc_c_emailingdocs.pdf",
+    "rel_path": "RPD-en-US/doc_c_emailingdocs.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_emailingdocs.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6478
+  },
+  {
+    "doc_name": "doc_c_xml_StepForDocProps.pdf",
+    "rel_path": "RPD-en-US/doc_c_xml_StepForDocProps.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_c_xml_StepForDocProps.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2571
+  },
+  {
+    "doc_name": "doc_i_c_config_docproc.pdf",
+    "rel_path": "RPD-en-US/doc_i_c_config_docproc.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_i_c_config_docproc.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4366
+  },
+  {
+    "doc_name": "doc_o_scen_email_docs.pdf",
+    "rel_path": "RPD-en-US/doc_o_scen_email_docs.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_o_scen_email_docs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3134
+  },
+  {
+    "doc_name": "doc_o_scen_pull_flood.pdf",
+    "rel_path": "RPD-en-US/doc_o_scen_pull_flood.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_o_scen_pull_flood.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8662
+  },
+  {
+    "doc_name": "doc_o_scen_pull_latepay.pdf",
+    "rel_path": "RPD-en-US/doc_o_scen_pull_latepay.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_o_scen_pull_latepay.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8312
+  },
+  {
+    "doc_name": "doc_o_scenarios_pull.pdf",
+    "rel_path": "RPD-en-US/doc_o_scenarios_pull.pdf",
+    "json_path": "data/processed/RPD-en-US_doc_o_scenarios_pull.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1502
+  },
+  {
+    "doc_name": "docafp_c_ConfigureAFPDocuments.pdf",
+    "rel_path": "RPD-en-US/docafp_c_ConfigureAFPDocuments.pdf",
+    "json_path": "data/processed/RPD-en-US_docafp_c_ConfigureAFPDocuments.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3733
+  },
+  {
+    "doc_name": "docafp_c_RunningPullAFPDocsWF.pdf",
+    "rel_path": "RPD-en-US/docafp_c_RunningPullAFPDocsWF.pdf",
+    "json_path": "data/processed/RPD-en-US_docafp_c_RunningPullAFPDocsWF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3977
+  },
+  {
+    "doc_name": "docafp_c_config_docproc.pdf",
+    "rel_path": "RPD-en-US/docafp_c_config_docproc.pdf",
+    "json_path": "data/processed/RPD-en-US_docafp_c_config_docproc.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2165
+  },
+  {
+    "doc_name": "docafp_o_processing_documents.pdf",
+    "rel_path": "RPD-en-US/docafp_o_processing_documents.pdf",
+    "json_path": "data/processed/RPD-en-US_docafp_o_processing_documents.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4732
+  },
+  {
+    "doc_name": "docafp_o_usagescenov.pdf",
+    "rel_path": "RPD-en-US/docafp_o_usagescenov.pdf",
+    "json_path": "data/processed/RPD-en-US_docafp_o_usagescenov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 764
+  },
+  {
+    "doc_name": "dt_c_settingdeadlines.pdf",
+    "rel_path": "RPD-en-US/dt_c_settingdeadlines.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_c_settingdeadlines.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5762
+  },
+  {
+    "doc_name": "dt_c_settingestimateddurations.pdf",
+    "rel_path": "RPD-en-US/dt_c_settingestimateddurations.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_c_settingestimateddurations.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4513
+  },
+  {
+    "doc_name": "dt_c_setup_deadlinetracker.pdf",
+    "rel_path": "RPD-en-US/dt_c_setup_deadlinetracker.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_c_setup_deadlinetracker.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1963
+  },
+  {
+    "doc_name": "dt_o_featov.pdf",
+    "rel_path": "RPD-en-US/dt_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_featov.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 7860
+  },
+  {
+    "doc_name": "dt_o_scen_deadlineandduration.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_deadlineandduration.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_deadlineandduration.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3776
+  },
+  {
+    "doc_name": "dt_o_scen_deadlineconditionwf.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_deadlineconditionwf.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_deadlineconditionwf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2713
+  },
+  {
+    "doc_name": "dt_o_scen_deadlinetimeofday.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_deadlinetimeofday.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_deadlinetimeofday.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2144
+  },
+  {
+    "doc_name": "dt_o_scen_deadlineworkflow.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_deadlineworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_deadlineworkflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1842
+  },
+  {
+    "doc_name": "dt_o_scen_durationworkflow.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_durationworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_durationworkflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2544
+  },
+  {
+    "doc_name": "dt_o_scen_expectedwork.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_expectedwork.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_expectedwork.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3002
+  },
+  {
+    "doc_name": "dt_o_scen_noserviceperiod.pdf",
+    "rel_path": "RPD-en-US/dt_o_scen_noserviceperiod.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scen_noserviceperiod.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2667
+  },
+  {
+    "doc_name": "dt_o_scenarios.pdf",
+    "rel_path": "RPD-en-US/dt_o_scenarios.pdf",
+    "json_path": "data/processed/RPD-en-US_dt_o_scenarios.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3417
+  },
+  {
+    "doc_name": "editingafpfiles.pdf",
+    "rel_path": "RPD-en-US/editingafpfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_editingafpfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2245
+  },
+  {
+    "doc_name": "editingdpdindex.pdf",
+    "rel_path": "RPD-en-US/editingdpdindex.pdf",
+    "json_path": "data/processed/RPD-en-US_editingdpdindex.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3860
+  },
+  {
+    "doc_name": "editingtext.pdf",
+    "rel_path": "RPD-en-US/editingtext.pdf",
+    "json_path": "data/processed/RPD-en-US_editingtext.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4042
+  },
+  {
+    "doc_name": "editoroverview.pdf",
+    "rel_path": "RPD-en-US/editoroverview.pdf",
+    "json_path": "data/processed/RPD-en-US_editoroverview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4055
+  },
+  {
+    "doc_name": "enablingobjectselection.pdf",
+    "rel_path": "RPD-en-US/enablingobjectselection.pdf",
+    "json_path": "data/processed/RPD-en-US_enablingobjectselection.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2828
+  },
+  {
+    "doc_name": "enhancingafpfiles.pdf",
+    "rel_path": "RPD-en-US/enhancingafpfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_enhancingafpfiles.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5005
+  },
+  {
+    "doc_name": "formdefinition.pdf",
+    "rel_path": "RPD-en-US/formdefinition.pdf",
+    "json_path": "data/processed/RPD-en-US_formdefinition.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1567
+  },
+  {
+    "doc_name": "fusionpro_c_configforFusionPro.pdf",
+    "rel_path": "RPD-en-US/fusionpro_c_configforFusionPro.pdf",
+    "json_path": "data/processed/RPD-en-US_fusionpro_c_configforFusionPro.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1345
+  },
+  {
+    "doc_name": "fusionpro_featov.pdf",
+    "rel_path": "RPD-en-US/fusionpro_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_fusionpro_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1797
+  },
+  {
+    "doc_name": "fusionpro_o_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/fusionpro_o_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_fusionpro_o_runsamplewf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2189
+  },
+  {
+    "doc_name": "gmc_c_configforGMC.pdf",
+    "rel_path": "RPD-en-US/gmc_c_configforGMC.pdf",
+    "json_path": "data/processed/RPD-en-US_gmc_c_configforGMC.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1179
+  },
+  {
+    "doc_name": "hiddenareas_overview.pdf",
+    "rel_path": "RPD-en-US/hiddenareas_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_hiddenareas_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1273
+  },
+  {
+    "doc_name": "hidingareas.pdf",
+    "rel_path": "RPD-en-US/hidingareas.pdf",
+    "json_path": "data/processed/RPD-en-US_hidingareas.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4060
+  },
+  {
+    "doc_name": "identifyingresourcedirectories.pdf",
+    "rel_path": "RPD-en-US/identifyingresourcedirectories.pdf",
+    "json_path": "data/processed/RPD-en-US_identifyingresourcedirectories.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2592
+  },
+  {
+    "doc_name": "importingexistingdefinitions.pdf",
+    "rel_path": "RPD-en-US/importingexistingdefinitions.pdf",
+    "json_path": "data/processed/RPD-en-US_importingexistingdefinitions.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2592
+  },
+  {
+    "doc_name": "indexeroverview.pdf",
+    "rel_path": "RPD-en-US/indexeroverview.pdf",
+    "json_path": "data/processed/RPD-en-US_indexeroverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1485
+  },
+  {
+    "doc_name": "indexingafpfiles.pdf",
+    "rel_path": "RPD-en-US/indexingafpfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_indexingafpfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2764
+  },
+  {
+    "doc_name": "indextags_overview.pdf",
+    "rel_path": "RPD-en-US/indextags_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_indextags_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3891
+  },
+  {
+    "doc_name": "insertingimages.pdf",
+    "rel_path": "RPD-en-US/insertingimages.pdf",
+    "json_path": "data/processed/RPD-en-US_insertingimages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2583
+  },
+  {
+    "doc_name": "insertingtext.pdf",
+    "rel_path": "RPD-en-US/insertingtext.pdf",
+    "json_path": "data/processed/RPD-en-US_insertingtext.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3975
+  },
+  {
+    "doc_name": "ip5khfippdsubmit.pdf",
+    "rel_path": "RPD-en-US/ip5khfippdsubmit.pdf",
+    "json_path": "data/processed/RPD-en-US_ip5khfippdsubmit.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2392
+  },
+  {
+    "doc_name": "ip5khflinux.pdf",
+    "rel_path": "RPD-en-US/ip5khflinux.pdf",
+    "json_path": "data/processed/RPD-en-US_ip5khflinux.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1479
+  },
+  {
+    "doc_name": "ip5khflinux1.pdf",
+    "rel_path": "RPD-en-US/ip5khflinux1.pdf",
+    "json_path": "data/processed/RPD-en-US_ip5khflinux1.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1297
+  },
+  {
+    "doc_name": "ip5khflinux2.pdf",
+    "rel_path": "RPD-en-US/ip5khflinux2.pdf",
+    "json_path": "data/processed/RPD-en-US_ip5khflinux2.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1141
+  },
+  {
+    "doc_name": "ipm_capture_cmrs.pdf",
+    "rel_path": "RPD-en-US/ipm_capture_cmrs.pdf",
+    "json_path": "data/processed/RPD-en-US_ipm_capture_cmrs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 995
+  },
+  {
+    "doc_name": "kdk_c_Define_KodakPDF.pdf",
+    "rel_path": "RPD-en-US/kdk_c_Define_KodakPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_kdk_c_Define_KodakPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2061
+  },
+  {
+    "doc_name": "kdk_kodakpdfptr_bannerpgs.pdf",
+    "rel_path": "RPD-en-US/kdk_kodakpdfptr_bannerpgs.pdf",
+    "json_path": "data/processed/RPD-en-US_kdk_kodakpdfptr_bannerpgs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2522
+  },
+  {
+    "doc_name": "kdk_o_featov.pdf",
+    "rel_path": "RPD-en-US/kdk_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_kdk_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1240
+  },
+  {
+    "doc_name": "linkingproperties.pdf",
+    "rel_path": "RPD-en-US/linkingproperties.pdf",
+    "json_path": "data/processed/RPD-en-US_linkingproperties.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5200
+  },
+  {
+    "doc_name": "mail_c_EnhanceAFP.pdf",
+    "rel_path": "RPD-en-US/mail_c_EnhanceAFP.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_c_EnhanceAFP.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3298
+  },
+  {
+    "doc_name": "mail_c_EnhancePDF.pdf",
+    "rel_path": "RPD-en-US/mail_c_EnhancePDF.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_c_EnhancePDF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5953
+  },
+  {
+    "doc_name": "mail_c_configforpe.pdf",
+    "rel_path": "RPD-en-US/mail_c_configforpe.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_c_configforpe.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2535
+  },
+  {
+    "doc_name": "mail_c_createworkflow.pdf",
+    "rel_path": "RPD-en-US/mail_c_createworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_c_createworkflow.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 18780
+  },
+  {
+    "doc_name": "mail_c_extractdocprops.pdf",
+    "rel_path": "RPD-en-US/mail_c_extractdocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_c_extractdocprops.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4567
+  },
+  {
+    "doc_name": "mail_o_RunningGroupDocsPrintAndProcessWorkflows.pdf",
+    "rel_path": "RPD-en-US/mail_o_RunningGroupDocsPrintAndProcessWorkflows.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_o_RunningGroupDocsPrintAndProcessWorkflows.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 12620
+  },
+  {
+    "doc_name": "mail_o_RunningPrintAndMailJobWorkflow.pdf",
+    "rel_path": "RPD-en-US/mail_o_RunningPrintAndMailJobWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_o_RunningPrintAndMailJobWorkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5330
+  },
+  {
+    "doc_name": "mail_o_featov.pdf",
+    "rel_path": "RPD-en-US/mail_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_mail_o_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4498
+  },
+  {
+    "doc_name": "managecomments.pdf",
+    "rel_path": "RPD-en-US/managecomments.pdf",
+    "json_path": "data/processed/RPD-en-US_managecomments.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1001
+  },
+  {
+    "doc_name": "mappingfonts.pdf",
+    "rel_path": "RPD-en-US/mappingfonts.pdf",
+    "json_path": "data/processed/RPD-en-US_mappingfonts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1372
+  },
+  {
+    "doc_name": "mcc_c_DefineOrderWorkflow.pdf",
+    "rel_path": "RPD-en-US/mcc_c_DefineOrderWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_DefineOrderWorkflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2510
+  },
+  {
+    "doc_name": "mcc_c_DefineTicketWorkflow.pdf",
+    "rel_path": "RPD-en-US/mcc_c_DefineTicketWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_DefineTicketWorkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5768
+  },
+  {
+    "doc_name": "mcc_c_PlanForOrders.pdf",
+    "rel_path": "RPD-en-US/mcc_c_PlanForOrders.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_PlanForOrders.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5463
+  },
+  {
+    "doc_name": "mcc_c_PrepToCallWebServices.pdf",
+    "rel_path": "RPD-en-US/mcc_c_PrepToCallWebServices.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_PrepToCallWebServices.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5087
+  },
+  {
+    "doc_name": "mcc_c_PrepToRetrieveOrders.pdf",
+    "rel_path": "RPD-en-US/mcc_c_PrepToRetrieveOrders.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_PrepToRetrieveOrders.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3458
+  },
+  {
+    "doc_name": "mcc_c_PrepToSendStatus.pdf",
+    "rel_path": "RPD-en-US/mcc_c_PrepToSendStatus.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_PrepToSendStatus.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3768
+  },
+  {
+    "doc_name": "mcc_c_RetrieveAndProcessOrders.pdf",
+    "rel_path": "RPD-en-US/mcc_c_RetrieveAndProcessOrders.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_RetrieveAndProcessOrders.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4456
+  },
+  {
+    "doc_name": "mcc_c_RunSOAPmccWF.pdf",
+    "rel_path": "RPD-en-US/mcc_c_RunSOAPmccWF.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_RunSOAPmccWF.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 12189
+  },
+  {
+    "doc_name": "mcc_c_configformcc.pdf",
+    "rel_path": "RPD-en-US/mcc_c_configformcc.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_c_configformcc.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4388
+  },
+  {
+    "doc_name": "mcc_o_featov.pdf",
+    "rel_path": "RPD-en-US/mcc_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_mcc_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4151
+  },
+  {
+    "doc_name": "modfiyinghiddenareas.pdf",
+    "rel_path": "RPD-en-US/modfiyinghiddenareas.pdf",
+    "json_path": "data/processed/RPD-en-US_modfiyinghiddenareas.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3278
+  },
+  {
+    "doc_name": "modifydeletewsdefs.pdf",
+    "rel_path": "RPD-en-US/modifydeletewsdefs.pdf",
+    "json_path": "data/processed/RPD-en-US_modifydeletewsdefs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 852
+  },
+  {
+    "doc_name": "modifyingbarcodes.pdf",
+    "rel_path": "RPD-en-US/modifyingbarcodes.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingbarcodes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2459
+  },
+  {
+    "doc_name": "modifyingcond.pdf",
+    "rel_path": "RPD-en-US/modifyingcond.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingcond.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1383
+  },
+  {
+    "doc_name": "modifyingdeletingeditordefs.pdf",
+    "rel_path": "RPD-en-US/modifyingdeletingeditordefs.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingdeletingeditordefs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1671
+  },
+  {
+    "doc_name": "modifyingdeletingindexerdefs.pdf",
+    "rel_path": "RPD-en-US/modifyingdeletingindexerdefs.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingdeletingindexerdefs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1655
+  },
+  {
+    "doc_name": "modifyingfonts.pdf",
+    "rel_path": "RPD-en-US/modifyingfonts.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingfonts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2207
+  },
+  {
+    "doc_name": "modifyingimages.pdf",
+    "rel_path": "RPD-en-US/modifyingimages.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingimages.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2055
+  },
+  {
+    "doc_name": "modifyingindexes.pdf",
+    "rel_path": "RPD-en-US/modifyingindexes.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingindexes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2478
+  },
+  {
+    "doc_name": "modifyingindexesinaddressarea.pdf",
+    "rel_path": "RPD-en-US/modifyingindexesinaddressarea.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingindexesinaddressarea.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4782
+  },
+  {
+    "doc_name": "modifyingindexesinarea.pdf",
+    "rel_path": "RPD-en-US/modifyingindexesinarea.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingindexesinarea.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3813
+  },
+  {
+    "doc_name": "modifyingoperators.pdf",
+    "rel_path": "RPD-en-US/modifyingoperators.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingoperators.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1192
+  },
+  {
+    "doc_name": "modifyingtext.pdf",
+    "rel_path": "RPD-en-US/modifyingtext.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingtext.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3380
+  },
+  {
+    "doc_name": "modifyingtextstrings.pdf",
+    "rel_path": "RPD-en-US/modifyingtextstrings.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingtextstrings.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3464
+  },
+  {
+    "doc_name": "modifyingtriggers.pdf",
+    "rel_path": "RPD-en-US/modifyingtriggers.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingtriggers.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2171
+  },
+  {
+    "doc_name": "modifyingwsdefavail.pdf",
+    "rel_path": "RPD-en-US/modifyingwsdefavail.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingwsdefavail.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1560
+  },
+  {
+    "doc_name": "modifyingwsdefsearch.pdf",
+    "rel_path": "RPD-en-US/modifyingwsdefsearch.pdf",
+    "json_path": "data/processed/RPD-en-US_modifyingwsdefsearch.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1752
+  },
+  {
+    "doc_name": "not_c_ChangeEmail.pdf",
+    "rel_path": "RPD-en-US/not_c_ChangeEmail.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_ChangeEmail.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 602
+  },
+  {
+    "doc_name": "not_c_ConfigEmailNotif.pdf",
+    "rel_path": "RPD-en-US/not_c_ConfigEmailNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_ConfigEmailNotif.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1163
+  },
+  {
+    "doc_name": "not_c_ConfigNotif.pdf",
+    "rel_path": "RPD-en-US/not_c_ConfigNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_ConfigNotif.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 827
+  },
+  {
+    "doc_name": "not_c_CopyNotif.pdf",
+    "rel_path": "RPD-en-US/not_c_CopyNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_CopyNotif.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 664
+  },
+  {
+    "doc_name": "not_c_CreateNotif.pdf",
+    "rel_path": "RPD-en-US/not_c_CreateNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_CreateNotif.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3714
+  },
+  {
+    "doc_name": "not_c_setup_notification.pdf",
+    "rel_path": "RPD-en-US/not_c_setup_notification.pdf",
+    "json_path": "data/processed/RPD-en-US_not_c_setup_notification.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1412
+  },
+  {
+    "doc_name": "not_o_NotifObj.pdf",
+    "rel_path": "RPD-en-US/not_o_NotifObj.pdf",
+    "json_path": "data/processed/RPD-en-US_not_o_NotifObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4053
+  },
+  {
+    "doc_name": "not_o_featov.pdf",
+    "rel_path": "RPD-en-US/not_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_not_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1008
+  },
+  {
+    "doc_name": "openingafpfiles.pdf",
+    "rel_path": "RPD-en-US/openingafpfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_openingafpfiles.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5221
+  },
+  {
+    "doc_name": "order_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/order_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_order_runsamplewf.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3927
+  },
+  {
+    "doc_name": "pagegroups_overview.pdf",
+    "rel_path": "RPD-en-US/pagegroups_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_pagegroups_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2363
+  },
+  {
+    "doc_name": "pdfw_c_ConfigurePDFDocuments.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_ConfigurePDFDocuments.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_ConfigurePDFDocuments.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4494
+  },
+  {
+    "doc_name": "pdfw_c_SetInputForPDFWorkflow.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_SetInputForPDFWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_SetInputForPDFWorkflow.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 9107
+  },
+  {
+    "doc_name": "pdfw_c_enhancingpdffiles.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_enhancingpdffiles.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_enhancingpdffiles.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5779
+  },
+  {
+    "doc_name": "pdfw_c_modifyobjects.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_modifyobjects.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_modifyobjects.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4492
+  },
+  {
+    "doc_name": "pdfw_c_pdfjobtypesforinsertion.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_pdfjobtypesforinsertion.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_pdfjobtypesforinsertion.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 6625
+  },
+  {
+    "doc_name": "pdfw_c_plugin_conditionaldef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_conditionaldef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_conditionaldef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2196
+  },
+  {
+    "doc_name": "pdfw_c_plugin_condtrigger.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_condtrigger.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_condtrigger.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1356
+  },
+  {
+    "doc_name": "pdfw_c_plugin_controlfiledef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_controlfiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_controlfiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2955
+  },
+  {
+    "doc_name": "pdfw_c_plugin_controlfiles.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_controlfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_controlfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 5785
+  },
+  {
+    "doc_name": "pdfw_c_plugin_docpropertydef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_docpropertydef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_docpropertydef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2048
+  },
+  {
+    "doc_name": "pdfw_c_plugin_managemediafinish.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_managemediafinish.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_managemediafinish.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2394
+  },
+  {
+    "doc_name": "pdfw_c_plugin_managerule.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_managerule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_managerule.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 651
+  },
+  {
+    "doc_name": "pdfw_c_plugin_markupdef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_markupdef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_markupdef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1060
+  },
+  {
+    "doc_name": "pdfw_c_plugin_pagegroupdef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_pagegroupdef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_pagegroupdef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3144
+  },
+  {
+    "doc_name": "pdfw_c_plugin_predefined_rule.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_predefined_rule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_predefined_rule.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2056
+  },
+  {
+    "doc_name": "pdfw_c_plugin_property_rule.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_property_rule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_property_rule.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1553
+  },
+  {
+    "doc_name": "pdfw_c_plugin_rule.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_rule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_rule.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3230
+  },
+  {
+    "doc_name": "pdfw_c_plugin_samplefiledef.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_samplefiledef.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_samplefiledef.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1491
+  },
+  {
+    "doc_name": "pdfw_c_plugin_statistic_rule.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_statistic_rule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_statistic_rule.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2900
+  },
+  {
+    "doc_name": "pdfw_c_plugin_ui.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_ui.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_ui.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 9249
+  },
+  {
+    "doc_name": "pdfw_c_plugin_units.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_units.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_units.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 619
+  },
+  {
+    "doc_name": "pdfw_c_plugin_workwithinserts.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_plugin_workwithinserts.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_plugin_workwithinserts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2030
+  },
+  {
+    "doc_name": "pdfw_c_scen_concepts.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_scen_concepts.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_scen_concepts.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4376
+  },
+  {
+    "doc_name": "pdfw_c_scen_one_many.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_scen_one_many.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_scen_one_many.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2002
+  },
+  {
+    "doc_name": "pdfw_c_scen_one_one.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_scen_one_one.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_scen_one_one.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1612
+  },
+  {
+    "doc_name": "pdfw_c_usagescenov.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_usagescenov.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_usagescenov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 787
+  },
+  {
+    "doc_name": "pdfw_c_userprefs.pdf",
+    "rel_path": "RPD-en-US/pdfw_c_userprefs.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_c_userprefs.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4871
+  },
+  {
+    "doc_name": "pdfw_i_c_config_docproc.pdf",
+    "rel_path": "RPD-en-US/pdfw_i_c_config_docproc.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_i_c_config_docproc.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4169
+  },
+  {
+    "doc_name": "pdfw_i_c_create_jt_basicPDF.pdf",
+    "rel_path": "RPD-en-US/pdfw_i_c_create_jt_basicPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_i_c_create_jt_basicPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1406
+  },
+  {
+    "doc_name": "pdfw_i_c_create_jt_splitdocprop.pdf",
+    "rel_path": "RPD-en-US/pdfw_i_c_create_jt_splitdocprop.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_i_c_create_jt_splitdocprop.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2066
+  },
+  {
+    "doc_name": "pdfw_i_c_create_jt_splitsize.pdf",
+    "rel_path": "RPD-en-US/pdfw_i_c_create_jt_splitsize.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_i_c_create_jt_splitsize.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3180
+  },
+  {
+    "doc_name": "pdfw_i_c_stepschangedata.pdf",
+    "rel_path": "RPD-en-US/pdfw_i_c_stepschangedata.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_i_c_stepschangedata.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1461
+  },
+  {
+    "doc_name": "pdfw_over_plugin_docprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_over_plugin_docprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_over_plugin_docprops.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7912
+  },
+  {
+    "doc_name": "pdfw_over_plugin_markup.pdf",
+    "rel_path": "RPD-en-US/pdfw_over_plugin_markup.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_over_plugin_markup.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3158
+  },
+  {
+    "doc_name": "pdfw_over_plugin_mediafinishing.pdf",
+    "rel_path": "RPD-en-US/pdfw_over_plugin_mediafinishing.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_over_plugin_mediafinishing.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2384
+  },
+  {
+    "doc_name": "pdfw_over_plugin_std.pdf",
+    "rel_path": "RPD-en-US/pdfw_over_plugin_std.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_over_plugin_std.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3092
+  },
+  {
+    "doc_name": "pdfw_t_activateicon.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_activateicon.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_activateicon.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1164
+  },
+  {
+    "doc_name": "pdfw_t_configuringidentstep.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_configuringidentstep.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_configuringidentstep.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3056
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addaddress.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addaddress.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addaddress.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4989
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addbarcode.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addbarcode.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addbarcode.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 14648
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addcontrigger.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addcontrigger.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addcontrigger.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2490
+  },
+  {
+    "doc_name": "pdfw_t_plugin_adddocprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_adddocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_adddocprops.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 10136
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addimage.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addimage.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addimage.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 4102
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addmediafinish.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addmediafinish.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addmediafinish.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3871
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addmultidocprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addmultidocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addmultidocprops.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 11345
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addomr.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addomr.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addomr.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7224
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addpagegroups.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addpagegroups.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addpagegroups.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7619
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addrule.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addrule.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addrule.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4919
+  },
+  {
+    "doc_name": "pdfw_t_plugin_addtext.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_addtext.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_addtext.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 11200
+  },
+  {
+    "doc_name": "pdfw_t_plugin_exportdocprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_exportdocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_exportdocprops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 935
+  },
+  {
+    "doc_name": "pdfw_t_plugin_hidearea.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_hidearea.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_hidearea.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3371
+  },
+  {
+    "doc_name": "pdfw_t_plugin_insertpages.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_insertpages.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_insertpages.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7829
+  },
+  {
+    "doc_name": "pdfw_t_plugin_liveview.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_liveview.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_liveview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6035
+  },
+  {
+    "doc_name": "pdfw_t_plugin_loaddocprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_loaddocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_loaddocprops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3001
+  },
+  {
+    "doc_name": "pdfw_t_plugin_loadmediaobj.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_loadmediaobj.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_loadmediaobj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2091
+  },
+  {
+    "doc_name": "pdfw_t_plugin_viewdocprops.pdf",
+    "rel_path": "RPD-en-US/pdfw_t_plugin_viewdocprops.pdf",
+    "json_path": "data/processed/RPD-en-US_pdfw_t_plugin_viewdocprops.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1677
+  },
+  {
+    "doc_name": "postnet_imb_replacement.pdf",
+    "rel_path": "RPD-en-US/postnet_imb_replacement.pdf",
+    "json_path": "data/processed/RPD-en-US_postnet_imb_replacement.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1702
+  },
+  {
+    "doc_name": "ppfrsample_c_AddFormsToMedia.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_AddFormsToMedia.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_AddFormsToMedia.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2669
+  },
+  {
+    "doc_name": "ppfrsample_c_ModifyAFPwfForForms.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_ModifyAFPwfForForms.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_ModifyAFPwfForForms.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7000
+  },
+  {
+    "doc_name": "ppfrsample_c_ModifyPDFwfForForms.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_ModifyPDFwfForForms.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_ModifyPDFwfForForms.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5321
+  },
+  {
+    "doc_name": "ppfrsample_c_RunFormsForDocsWF.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_RunFormsForDocsWF.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_RunFormsForDocsWF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8264
+  },
+  {
+    "doc_name": "ppfrsample_c_RunFormsForJobsWF.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_RunFormsForJobsWF.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_RunFormsForJobsWF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5217
+  },
+  {
+    "doc_name": "ppfrsample_c_SetupElectronicForms.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_SetupElectronicForms.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_SetupElectronicForms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1986
+  },
+  {
+    "doc_name": "ppfrsample_c_UsingMediaWithForms.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_c_UsingMediaWithForms.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_c_UsingMediaWithForms.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 748
+  },
+  {
+    "doc_name": "ppfrsample_o_featov.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_o_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5856
+  },
+  {
+    "doc_name": "ppfrsample_o_scen_PFRjobs.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_o_scen_PFRjobs.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_o_scen_PFRjobs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2993
+  },
+  {
+    "doc_name": "ppfrsample_t_ExportMediaZip.pdf",
+    "rel_path": "RPD-en-US/ppfrsample_t_ExportMediaZip.pdf",
+    "json_path": "data/processed/RPD-en-US_ppfrsample_t_ExportMediaZip.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2716
+  },
+  {
+    "doc_name": "pref_c_DefineDocProps.pdf",
+    "rel_path": "RPD-en-US/pref_c_DefineDocProps.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_DefineDocProps.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3637
+  },
+  {
+    "doc_name": "pref_c_DefinePropMapObj.pdf",
+    "rel_path": "RPD-en-US/pref_c_DefinePropMapObj.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_DefinePropMapObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1852
+  },
+  {
+    "doc_name": "pref_c_RunPrefManageOutputWF.pdf",
+    "rel_path": "RPD-en-US/pref_c_RunPrefManageOutputWF.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_RunPrefManageOutputWF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3034
+  },
+  {
+    "doc_name": "pref_c_SendPrefFileToSystem.pdf",
+    "rel_path": "RPD-en-US/pref_c_SendPrefFileToSystem.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_SendPrefFileToSystem.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3884
+  },
+  {
+    "doc_name": "pref_c_configforPrefMgmt.pdf",
+    "rel_path": "RPD-en-US/pref_c_configforPrefMgmt.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_configforPrefMgmt.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2236
+  },
+  {
+    "doc_name": "pref_c_createworkflow.pdf",
+    "rel_path": "RPD-en-US/pref_c_createworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_c_createworkflow.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3541
+  },
+  {
+    "doc_name": "pref_o_InfoAboutDocs.pdf",
+    "rel_path": "RPD-en-US/pref_o_InfoAboutDocs.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_o_InfoAboutDocs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2161
+  },
+  {
+    "doc_name": "pref_o_PropMapObj.pdf",
+    "rel_path": "RPD-en-US/pref_o_PropMapObj.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_o_PropMapObj.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 2316
+  },
+  {
+    "doc_name": "pref_o_featov.pdf",
+    "rel_path": "RPD-en-US/pref_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3734
+  },
+  {
+    "doc_name": "pref_o_scen_distribute.pdf",
+    "rel_path": "RPD-en-US/pref_o_scen_distribute.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_o_scen_distribute.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 11259
+  },
+  {
+    "doc_name": "pref_o_scen_markup.pdf",
+    "rel_path": "RPD-en-US/pref_o_scen_markup.pdf",
+    "json_path": "data/processed/RPD-en-US_pref_o_scen_markup.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6846
+  },
+  {
+    "doc_name": "pst_c_featov.pdf",
+    "rel_path": "RPD-en-US/pst_c_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_pst_c_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1636
+  },
+  {
+    "doc_name": "rcm_creatingstepresources.pdf",
+    "rel_path": "RPD-en-US/rcm_creatingstepresources.pdf",
+    "json_path": "data/processed/RPD-en-US_rcm_creatingstepresources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1781
+  },
+  {
+    "doc_name": "rcm_credentialsoverview.pdf",
+    "rel_path": "RPD-en-US/rcm_credentialsoverview.pdf",
+    "json_path": "data/processed/RPD-en-US_rcm_credentialsoverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1967
+  },
+  {
+    "doc_name": "rcm_stepresourcesoverview.pdf",
+    "rel_path": "RPD-en-US/rcm_stepresourcesoverview.pdf",
+    "json_path": "data/processed/RPD-en-US_rcm_stepresourcesoverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1097
+  },
+  {
+    "doc_name": "rep_ChangeFolder.pdf",
+    "rel_path": "RPD-en-US/rep_ChangeFolder.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_ChangeFolder.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1178
+  },
+  {
+    "doc_name": "rep_ChangeRetention.pdf",
+    "rel_path": "RPD-en-US/rep_ChangeRetention.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_ChangeRetention.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 901
+  },
+  {
+    "doc_name": "rep_c_ConfigHistoryRecNotif.pdf",
+    "rel_path": "RPD-en-US/rep_c_ConfigHistoryRecNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_ConfigHistoryRecNotif.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 694
+  },
+  {
+    "doc_name": "rep_c_CreateAFPWorkflow.pdf",
+    "rel_path": "RPD-en-US/rep_c_CreateAFPWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_CreateAFPWorkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5748
+  },
+  {
+    "doc_name": "rep_c_CreateAssocPropFile.pdf",
+    "rel_path": "RPD-en-US/rep_c_CreateAssocPropFile.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_CreateAssocPropFile.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 13730
+  },
+  {
+    "doc_name": "rep_c_CreatePDFWorkflow.pdf",
+    "rel_path": "RPD-en-US/rep_c_CreatePDFWorkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_CreatePDFWorkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4588
+  },
+  {
+    "doc_name": "rep_c_CreateRepo.pdf",
+    "rel_path": "RPD-en-US/rep_c_CreateRepo.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_CreateRepo.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 686
+  },
+  {
+    "doc_name": "rep_c_CreateWorkflowForJobsAndHistory.pdf",
+    "rel_path": "RPD-en-US/rep_c_CreateWorkflowForJobsAndHistory.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_CreateWorkflowForJobsAndHistory.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4508
+  },
+  {
+    "doc_name": "rep_c_DefineHRN.pdf",
+    "rel_path": "RPD-en-US/rep_c_DefineHRN.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_DefineHRN.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1538
+  },
+  {
+    "doc_name": "rep_c_DefineHRN2.pdf",
+    "rel_path": "RPD-en-US/rep_c_DefineHRN2.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_DefineHRN2.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1540
+  },
+  {
+    "doc_name": "rep_c_EnhanceAFP.pdf",
+    "rel_path": "RPD-en-US/rep_c_EnhanceAFP.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_EnhanceAFP.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2065
+  },
+  {
+    "doc_name": "rep_c_EnhancePDF.pdf",
+    "rel_path": "RPD-en-US/rep_c_EnhancePDF.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_EnhancePDF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4640
+  },
+  {
+    "doc_name": "rep_c_PlanForRetention.pdf",
+    "rel_path": "RPD-en-US/rep_c_PlanForRetention.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_PlanForRetention.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 13274
+  },
+  {
+    "doc_name": "rep_c_WorkflowsJobsData.pdf",
+    "rel_path": "RPD-en-US/rep_c_WorkflowsJobsData.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_WorkflowsJobsData.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1879
+  },
+  {
+    "doc_name": "rep_c_configforFileCabinet.pdf",
+    "rel_path": "RPD-en-US/rep_c_configforFileCabinet.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_c_configforFileCabinet.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2942
+  },
+  {
+    "doc_name": "rep_m_repositories.pdf",
+    "rel_path": "RPD-en-US/rep_m_repositories.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_m_repositories.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 567
+  },
+  {
+    "doc_name": "rep_o_RepoObj.pdf",
+    "rel_path": "RPD-en-US/rep_o_RepoObj.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_RepoObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1475
+  },
+  {
+    "doc_name": "rep_o_featov.pdf",
+    "rel_path": "RPD-en-US/rep_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3150
+  },
+  {
+    "doc_name": "rep_o_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/rep_o_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_runsamplewf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3017
+  },
+  {
+    "doc_name": "rep_o_scen_ReprintDocument.pdf",
+    "rel_path": "RPD-en-US/rep_o_scen_ReprintDocument.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_scen_ReprintDocument.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3503
+  },
+  {
+    "doc_name": "rep_o_scen_ReprintJob.pdf",
+    "rel_path": "RPD-en-US/rep_o_scen_ReprintJob.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_scen_ReprintJob.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3094
+  },
+  {
+    "doc_name": "rep_o_scenarios.pdf",
+    "rel_path": "RPD-en-US/rep_o_scenarios.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_o_scenarios.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1160
+  },
+  {
+    "doc_name": "rep_t_TuningForSearchAndStorage.pdf",
+    "rel_path": "RPD-en-US/rep_t_TuningForSearchAndStorage.pdf",
+    "json_path": "data/processed/RPD-en-US_rep_t_TuningForSearchAndStorage.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1441
+  },
+  {
+    "doc_name": "replacingpostnetbarcodes.pdf",
+    "rel_path": "RPD-en-US/replacingpostnetbarcodes.pdf",
+    "json_path": "data/processed/RPD-en-US_replacingpostnetbarcodes.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6026
+  },
+  {
+    "doc_name": "reportsPostgresql_Overview.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_Overview.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_Overview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5072
+  },
+  {
+    "doc_name": "reportsPostgresql_UploadData.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_UploadData.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_UploadData.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3684
+  },
+  {
+    "doc_name": "reportsPostgresql_c_AddStepsToCapturePropertyValues.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_c_AddStepsToCapturePropertyValues.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_c_AddStepsToCapturePropertyValues.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2446
+  },
+  {
+    "doc_name": "reportsPostgresql_c_CaptureDataForPostgreSQL.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_c_CaptureDataForPostgreSQL.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_c_CaptureDataForPostgreSQL.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3755
+  },
+  {
+    "doc_name": "reportsPostgresql_c_ConfigReports.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_c_ConfigReports.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_c_ConfigReports.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1558
+  },
+  {
+    "doc_name": "reportsPostgresql_c_ReportsCleanup.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_c_ReportsCleanup.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_c_ReportsCleanup.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2453
+  },
+  {
+    "doc_name": "reportsPostgresql_c_SetUpRPDconnectToPostgreSQL.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_c_SetUpRPDconnectToPostgreSQL.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_c_SetUpRPDconnectToPostgreSQL.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4248
+  },
+  {
+    "doc_name": "reportsPostgresql_datacollObj.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_datacollObj.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_datacollObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3025
+  },
+  {
+    "doc_name": "reportsPostgresql_datatransObj.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_datatransObj.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_datatransObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1669
+  },
+  {
+    "doc_name": "reportsPostgresql_o_scen_Reports.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_o_scen_Reports.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_o_scen_Reports.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3312
+  },
+  {
+    "doc_name": "reportsPostgresql_w_ExportReportData.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_w_ExportReportData.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_w_ExportReportData.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 725
+  },
+  {
+    "doc_name": "reportsPostgresql_w_WorkingWithReports.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_w_WorkingWithReports.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_w_WorkingWithReports.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1261
+  },
+  {
+    "doc_name": "reportsPostgresql_w_psqlConnect.pdf",
+    "rel_path": "RPD-en-US/reportsPostgresql_w_psqlConnect.pdf",
+    "json_path": "data/processed/RPD-en-US_reportsPostgresql_w_psqlConnect.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3870
+  },
+  {
+    "doc_name": "sec_c_advancedfunctions.pdf",
+    "rel_path": "RPD-en-US/sec_c_advancedfunctions.pdf",
+    "json_path": "data/processed/RPD-en-US_sec_c_advancedfunctions.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1681
+  },
+  {
+    "doc_name": "showingresources.pdf",
+    "rel_path": "RPD-en-US/showingresources.pdf",
+    "json_path": "data/processed/RPD-en-US_showingresources.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2862
+  },
+  {
+    "doc_name": "sla_expectedwork.pdf",
+    "rel_path": "RPD-en-US/sla_expectedwork.pdf",
+    "json_path": "data/processed/RPD-en-US_sla_expectedwork.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2642
+  },
+  {
+    "doc_name": "sla_settingupexpwork.pdf",
+    "rel_path": "RPD-en-US/sla_settingupexpwork.pdf",
+    "json_path": "data/processed/RPD-en-US_sla_settingupexpwork.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2279
+  },
+  {
+    "doc_name": "slaassociatingwithjobtype.pdf",
+    "rel_path": "RPD-en-US/slaassociatingwithjobtype.pdf",
+    "json_path": "data/processed/RPD-en-US_slaassociatingwithjobtype.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3579
+  },
+  {
+    "doc_name": "slaassociatingwithjobtype2.pdf",
+    "rel_path": "RPD-en-US/slaassociatingwithjobtype2.pdf",
+    "json_path": "data/processed/RPD-en-US_slaassociatingwithjobtype2.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3611
+  },
+  {
+    "doc_name": "slacopyingpolicies.pdf",
+    "rel_path": "RPD-en-US/slacopyingpolicies.pdf",
+    "json_path": "data/processed/RPD-en-US_slacopyingpolicies.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 865
+  },
+  {
+    "doc_name": "slacreatingpolicies.pdf",
+    "rel_path": "RPD-en-US/slacreatingpolicies.pdf",
+    "json_path": "data/processed/RPD-en-US_slacreatingpolicies.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1546
+  },
+  {
+    "doc_name": "sladefiningnoservice.pdf",
+    "rel_path": "RPD-en-US/sladefiningnoservice.pdf",
+    "json_path": "data/processed/RPD-en-US_sladefiningnoservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1718
+  },
+  {
+    "doc_name": "slanoservice.pdf",
+    "rel_path": "RPD-en-US/slanoservice.pdf",
+    "json_path": "data/processed/RPD-en-US_slanoservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1595
+  },
+  {
+    "doc_name": "slapolicy.pdf",
+    "rel_path": "RPD-en-US/slapolicy.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicy.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3352
+  },
+  {
+    "doc_name": "slapolicycheckpoints.pdf",
+    "rel_path": "RPD-en-US/slapolicycheckpoints.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicycheckpoints.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1703
+  },
+  {
+    "doc_name": "slapolicycheckpointstatus.pdf",
+    "rel_path": "RPD-en-US/slapolicycheckpointstatus.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicycheckpointstatus.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1235
+  },
+  {
+    "doc_name": "slapolicycheckpointtimes.pdf",
+    "rel_path": "RPD-en-US/slapolicycheckpointtimes.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicycheckpointtimes.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2544
+  },
+  {
+    "doc_name": "slapolicydeadline.pdf",
+    "rel_path": "RPD-en-US/slapolicydeadline.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicydeadline.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2523
+  },
+  {
+    "doc_name": "slapolicyintervals.pdf",
+    "rel_path": "RPD-en-US/slapolicyintervals.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicyintervals.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5847
+  },
+  {
+    "doc_name": "slapolicynoservice.pdf",
+    "rel_path": "RPD-en-US/slapolicynoservice.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicynoservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2960
+  },
+  {
+    "doc_name": "slapolicytimezone.pdf",
+    "rel_path": "RPD-en-US/slapolicytimezone.pdf",
+    "json_path": "data/processed/RPD-en-US_slapolicytimezone.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 625
+  },
+  {
+    "doc_name": "slasettingupnoservice.pdf",
+    "rel_path": "RPD-en-US/slasettingupnoservice.pdf",
+    "json_path": "data/processed/RPD-en-US_slasettingupnoservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1694
+  },
+  {
+    "doc_name": "slasettinguppolicies.pdf",
+    "rel_path": "RPD-en-US/slasettinguppolicies.pdf",
+    "json_path": "data/processed/RPD-en-US_slasettinguppolicies.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2243
+  },
+  {
+    "doc_name": "slausingsuppliednoservice.pdf",
+    "rel_path": "RPD-en-US/slausingsuppliednoservice.pdf",
+    "json_path": "data/processed/RPD-en-US_slausingsuppliednoservice.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1384
+  },
+  {
+    "doc_name": "slausingsuppliedpolicies.pdf",
+    "rel_path": "RPD-en-US/slausingsuppliedpolicies.pdf",
+    "json_path": "data/processed/RPD-en-US_slausingsuppliedpolicies.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1050
+  },
+  {
+    "doc_name": "stepchains_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/stepchains_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_stepchains_runsamplewf.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 3737
+  },
+  {
+    "doc_name": "supplpages_overview.pdf",
+    "rel_path": "RPD-en-US/supplpages_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_supplpages_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2222
+  },
+  {
+    "doc_name": "tf_activate_appe.pdf",
+    "rel_path": "RPD-en-US/tf_activate_appe.pdf",
+    "json_path": "data/processed/RPD-en-US_tf_activate_appe.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1807
+  },
+  {
+    "doc_name": "tskalfa_o_featov.pdf",
+    "rel_path": "RPD-en-US/tskalfa_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_tskalfa_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1084
+  },
+  {
+    "doc_name": "tt_c_CreatingBarcodeReaders.pdf",
+    "rel_path": "RPD-en-US/tt_c_CreatingBarcodeReaders.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_CreatingBarcodeReaders.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1875
+  },
+  {
+    "doc_name": "tt_c_CustomVerifyRecipAFP.pdf",
+    "rel_path": "RPD-en-US/tt_c_CustomVerifyRecipAFP.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_CustomVerifyRecipAFP.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2762
+  },
+  {
+    "doc_name": "tt_c_CustomVerifyRecipPDF.pdf",
+    "rel_path": "RPD-en-US/tt_c_CustomVerifyRecipPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_CustomVerifyRecipPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2965
+  },
+  {
+    "doc_name": "tt_c_EnhanceAFPVerification.pdf",
+    "rel_path": "RPD-en-US/tt_c_EnhanceAFPVerification.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_EnhanceAFPVerification.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2297
+  },
+  {
+    "doc_name": "tt_c_EnhancePDFVerification.pdf",
+    "rel_path": "RPD-en-US/tt_c_EnhancePDFVerification.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_EnhancePDFVerification.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5927
+  },
+  {
+    "doc_name": "tt_c_setup_verification.pdf",
+    "rel_path": "RPD-en-US/tt_c_setup_verification.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_c_setup_verification.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2733
+  },
+  {
+    "doc_name": "tt_cfg_settingupavf.pdf",
+    "rel_path": "RPD-en-US/tt_cfg_settingupavf.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_cfg_settingupavf.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 9621
+  },
+  {
+    "doc_name": "tt_m_ConnectBarcodeReader.pdf",
+    "rel_path": "RPD-en-US/tt_m_ConnectBarcodeReader.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_m_ConnectBarcodeReader.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1135
+  },
+  {
+    "doc_name": "tt_m_barcodereaders.pdf",
+    "rel_path": "RPD-en-US/tt_m_barcodereaders.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_m_barcodereaders.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 633
+  },
+  {
+    "doc_name": "tt_o_BarcodeReaderObj.pdf",
+    "rel_path": "RPD-en-US/tt_o_BarcodeReaderObj.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_o_BarcodeReaderObj.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1830
+  },
+  {
+    "doc_name": "tt_o_ReconcileMethods.pdf",
+    "rel_path": "RPD-en-US/tt_o_ReconcileMethods.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_o_ReconcileMethods.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2785
+  },
+  {
+    "doc_name": "tt_o_featov.pdf",
+    "rel_path": "RPD-en-US/tt_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_o_featov.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 4592
+  },
+  {
+    "doc_name": "tt_o_runsamplewf.pdf",
+    "rel_path": "RPD-en-US/tt_o_runsamplewf.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_o_runsamplewf.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3324
+  },
+  {
+    "doc_name": "tt_o_runsamplewf_quadient.pdf",
+    "rel_path": "RPD-en-US/tt_o_runsamplewf_quadient.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_o_runsamplewf_quadient.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2892
+  },
+  {
+    "doc_name": "tt_t_definettworkflow.pdf",
+    "rel_path": "RPD-en-US/tt_t_definettworkflow.pdf",
+    "json_path": "data/processed/RPD-en-US_tt_t_definettworkflow.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6700
+  },
+  {
+    "doc_name": "ult_c_featov.pdf",
+    "rel_path": "RPD-en-US/ult_c_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_ult_c_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1410
+  },
+  {
+    "doc_name": "ult_config_sendjobs.pdf",
+    "rel_path": "RPD-en-US/ult_config_sendjobs.pdf",
+    "json_path": "data/processed/RPD-en-US_ult_config_sendjobs.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7221
+  },
+  {
+    "doc_name": "vwb_CreateBarCodes.pdf",
+    "rel_path": "RPD-en-US/vwb_CreateBarCodes.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_CreateBarCodes.json",
+    "num_pages": 4,
+    "nonempty_pages": 4,
+    "total_chars": 10535
+  },
+  {
+    "doc_name": "vwb_CreateText.pdf",
+    "rel_path": "RPD-en-US/vwb_CreateText.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_CreateText.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 7789
+  },
+  {
+    "doc_name": "vwb_EnhancerOverview.pdf",
+    "rel_path": "RPD-en-US/vwb_EnhancerOverview.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_EnhancerOverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3131
+  },
+  {
+    "doc_name": "vwb_HideAreas.pdf",
+    "rel_path": "RPD-en-US/vwb_HideAreas.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_HideAreas.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5665
+  },
+  {
+    "doc_name": "vwb_ManagePipeline.pdf",
+    "rel_path": "RPD-en-US/vwb_ManagePipeline.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_ManagePipeline.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1671
+  },
+  {
+    "doc_name": "vwb_ModifyDeleteEnhancerDefs.pdf",
+    "rel_path": "RPD-en-US/vwb_ModifyDeleteEnhancerDefs.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_ModifyDeleteEnhancerDefs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 430
+  },
+  {
+    "doc_name": "vwb_PipelineMgrOverview.pdf",
+    "rel_path": "RPD-en-US/vwb_PipelineMgrOverview.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_PipelineMgrOverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1055
+  },
+  {
+    "doc_name": "vwb_barcodes_overview.pdf",
+    "rel_path": "RPD-en-US/vwb_barcodes_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_barcodes_overview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3463
+  },
+  {
+    "doc_name": "vwb_barcodes_overview_data.pdf",
+    "rel_path": "RPD-en-US/vwb_barcodes_overview_data.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_barcodes_overview_data.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1602
+  },
+  {
+    "doc_name": "vwb_barcodes_overview_imb_data.pdf",
+    "rel_path": "RPD-en-US/vwb_barcodes_overview_imb_data.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_barcodes_overview_imb_data.json",
+    "num_pages": 3,
+    "nonempty_pages": 3,
+    "total_chars": 10440
+  },
+  {
+    "doc_name": "vwb_barcodes_overview_placement.pdf",
+    "rel_path": "RPD-en-US/vwb_barcodes_overview_placement.pdf",
+    "json_path": "data/processed/RPD-en-US_vwb_barcodes_overview_placement.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1662
+  },
+  {
+    "doc_name": "whitespace_overview.pdf",
+    "rel_path": "RPD-en-US/whitespace_overview.pdf",
+    "json_path": "data/processed/RPD-en-US_whitespace_overview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5905
+  },
+  {
+    "doc_name": "workbenchcontrolfiles.pdf",
+    "rel_path": "RPD-en-US/workbenchcontrolfiles.pdf",
+    "json_path": "data/processed/RPD-en-US_workbenchcontrolfiles.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3787
+  },
+  {
+    "doc_name": "workbenchoverview.pdf",
+    "rel_path": "RPD-en-US/workbenchoverview.pdf",
+    "json_path": "data/processed/RPD-en-US_workbenchoverview.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5165
+  },
+  {
+    "doc_name": "workbenchuserinterface.pdf",
+    "rel_path": "RPD-en-US/workbenchuserinterface.pdf",
+    "json_path": "data/processed/RPD-en-US_workbenchuserinterface.json",
+    "num_pages": 5,
+    "nonempty_pages": 5,
+    "total_chars": 10126
+  },
+  {
+    "doc_name": "workingpglevelindex.pdf",
+    "rel_path": "RPD-en-US/workingpglevelindex.pdf",
+    "json_path": "data/processed/RPD-en-US_workingpglevelindex.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1386
+  },
+  {
+    "doc_name": "wpm_c_featov.pdf",
+    "rel_path": "RPD-en-US/wpm_c_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_wpm_c_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1980
+  },
+  {
+    "doc_name": "ws-inputdevice_c_AuthenticateRESTws.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_AuthenticateRESTws.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_AuthenticateRESTws.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6297
+  },
+  {
+    "doc_name": "ws-inputdevice_c_AuthenticateSOAPws.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_AuthenticateSOAPws.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_AuthenticateSOAPws.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5450
+  },
+  {
+    "doc_name": "ws-inputdevice_c_ConfigNotif.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_ConfigNotif.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_ConfigNotif.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1133
+  },
+  {
+    "doc_name": "ws-inputdevice_c_PrepForRESTInput.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_PrepForRESTInput.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_PrepForRESTInput.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8444
+  },
+  {
+    "doc_name": "ws-inputdevice_c_PrepForSOAPInput.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_PrepForSOAPInput.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_PrepForSOAPInput.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8011
+  },
+  {
+    "doc_name": "ws-inputdevice_c_PrepStatusREST.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_PrepStatusREST.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_PrepStatusREST.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5945
+  },
+  {
+    "doc_name": "ws-inputdevice_c_PrepStatusSOAP.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_PrepStatusSOAP.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_PrepStatusSOAP.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5762
+  },
+  {
+    "doc_name": "ws-inputdevice_c_RunRestWebServWF.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_RunRestWebServWF.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_RunRestWebServWF.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 8789
+  },
+  {
+    "doc_name": "ws-inputdevice_c_setupWebServices.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_c_setupWebServices.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_c_setupWebServices.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1027
+  },
+  {
+    "doc_name": "ws-inputdevice_o_featov.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 3408
+  },
+  {
+    "doc_name": "ws-inputdevice_o_scen_json_orders.pdf",
+    "rel_path": "RPD-en-US/ws-inputdevice_o_scen_json_orders.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-inputdevice_o_scen_json_orders.json",
+    "num_pages": 5,
+    "nonempty_pages": 5,
+    "total_chars": 20028
+  },
+  {
+    "doc_name": "ws-step_c_CallRESTService.pdf",
+    "rel_path": "RPD-en-US/ws-step_c_CallRESTService.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-step_c_CallRESTService.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 6097
+  },
+  {
+    "doc_name": "ws-step_c_CallSOAPService.pdf",
+    "rel_path": "RPD-en-US/ws-step_c_CallSOAPService.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-step_c_CallSOAPService.json",
+    "num_pages": 2,
+    "nonempty_pages": 2,
+    "total_chars": 5659
+  },
+  {
+    "doc_name": "ws-step_c_ImportWSDL.pdf",
+    "rel_path": "RPD-en-US/ws-step_c_ImportWSDL.pdf",
+    "json_path": "data/processed/RPD-en-US_ws-step_c_ImportWSDL.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2703
+  },
+  {
+    "doc_name": "wsmgroverview.pdf",
+    "rel_path": "RPD-en-US/wsmgroverview.pdf",
+    "json_path": "data/processed/RPD-en-US_wsmgroverview.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 1130
+  },
+  {
+    "doc_name": "xrx_c_Define_XeroxPDF.pdf",
+    "rel_path": "RPD-en-US/xrx_c_Define_XeroxPDF.pdf",
+    "json_path": "data/processed/RPD-en-US_xrx_c_Define_XeroxPDF.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2247
+  },
+  {
+    "doc_name": "xrx_o_featov.pdf",
+    "rel_path": "RPD-en-US/xrx_o_featov.pdf",
+    "json_path": "data/processed/RPD-en-US_xrx_o_featov.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 930
+  },
+  {
+    "doc_name": "xrx_xeroxpdfptr_bannerpgs.pdf",
+    "rel_path": "RPD-en-US/xrx_xeroxpdfptr_bannerpgs.pdf",
+    "json_path": "data/processed/RPD-en-US_xrx_xeroxpdfptr_bannerpgs.json",
+    "num_pages": 1,
+    "nonempty_pages": 1,
+    "total_chars": 2463
+  }
+]
