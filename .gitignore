@@ -2,3 +2,9 @@ data/raw/dataset.zip
 data/raw/
 data/raw/dataset.zip
 data/raw/
+
+data/raw/
+*.zip
+*.parquet
+*.pkl
+*.index
